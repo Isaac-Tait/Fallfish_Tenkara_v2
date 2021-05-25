@@ -6,13 +6,13 @@ const Footer = () => {
             <footer class="text-tiny md:text-base flex items-center justify-between">
                 <div class="ml-2">
                     <p>© 2014 - {new Date().getFullYear()}, Built with&nbsp;
-                        <a href="https://www.gatsbyjs.org" class="hover:text-white" target="_blank" rel="noopener noreferrer">Gatsby</a> &&nbsp;
-                        <a  href="https://tailwindcss.com" class="hover:text-white" target="_blank" rel="noopener noreferrer">TailwindCSS</a>.
+                        <a href="https://www.gatsbyjs.org" class="text-white hover:text-blue-500" target="_blank" rel="noopener noreferrer">Gatsby</a> &&nbsp;
+                        <a  href="https://tailwindcss.com" class="text-white hover:text-blue-500" target="_blank" rel="noopener noreferrer">TailwindCSS</a>.
                     </p>
                 </div>
-                <div class="">
+                <div class="mr-2">
                     <p>A&nbsp;
-                        <a href="https://www.mountaintopcoding.com"class="hover:text-white" target="_blank" rel="noopener noreferrer">mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a> project
+                        <a href="https://mountaintopcoding.dev"class="font-mono text-white hover:text-blue-500" target="_blank" rel="noopener noreferrer">mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a> project
                     </p>
                 </div>   
             </footer>
