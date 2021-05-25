@@ -8,6 +8,7 @@
     "url": "https://github.com/Isaac-Tait/Fallfish_Tenkara_v2/issues"
   },
   "dependencies": {
+    "@tailwindcss/typography": "^0.4.1",
     "algoliasearch": "^4.9.1",
     "gatsby": "^3.4.1",
     "gatsby-awesome-pagination": "^0.3.8",

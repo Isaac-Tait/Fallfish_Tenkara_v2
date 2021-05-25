@@ -151,7 +151,7 @@ const Navigation = () => {
                         </li>
                         <li>
                             <span class="text-white tracking-wide hover:text-red-500 hover:bg-white rounded text-xs lg:text-lg ml-2 mr-2">
-                                <Link to="/search">&#128270;</Link>
+                                <Link to="/search"><span role="img" aria-label="magnifying glass">&#128270;</span></Link>
                             </span> 
                         </li>
                     </ul>

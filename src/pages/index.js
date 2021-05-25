@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import FrontPage from "../components/frontPage"
 class BlogIndex extends React.Component {
   render() {
@@ -12,7 +12,7 @@ class BlogIndex extends React.Component {
     return (
       <div>
         <Layout location={location} title={siteTitle}>
-          <SEO title="All posts" />
+          <Seo title="All posts" />
           <FrontPage />
         </Layout>
       </div>

@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Navigation from "../components/navigation"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Footer from "../components/footer"
 import Comments from "../components/comments-queue"
 
@@ -15,7 +15,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
     <div location={location}>
       <Navigation />
       <Link to="/" class="uppercase font-bold text-red-500">Take me back to the Home Page</Link>
-      <SEO
+      <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />

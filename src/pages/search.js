@@ -8,7 +8,7 @@ import {
     Hits 
 } from 'react-instantsearch-dom';
 
-import SEO from "../components/seo";
+import Seo from "../components/seo";
 import Layout from "../components/layout"
 import SearchPreview from "../components/search-preview";
 
@@ -24,7 +24,7 @@ class Search extends React.Component {
 
         return (
             <Layout location={this.props.location} title={siteTitle}>
-                <SEO 
+                <Seo 
                     title="All Posts"
                     keywords={[`tenkara`,`japan`,`fly fishing`,`sawanobori`,]}
                 />
