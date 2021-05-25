@@ -1,15 +1,107 @@
+require('dotenv').config({
+  path: `.env.${process.env.NODE_ENV}`,
+});
+
+const BlogQuery = `
+  {
+    allMarkdownRemark {
+      nodes {
+        id
+        excerpt
+        frontmatter {
+          description
+          tags
+          title
+        }
+        fields {
+          slug
+        }
+        html
+      }
+    }
+  }
+`
+
+const queries = [
+  {
+    query: BlogQuery,
+    transformer: ({ data }) => data.allMarkdownRemark.nodes, }
+];
+//Update:
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Fallfish Tenkara`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Isaac Tait`,
+      summary: `who now lives in San Diego but dreams of returning, one day, to Japan.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Exploring Japan One River At A Time`,
+    siteUrl: `https://www.fallfishtenkara.com`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Isaac_Tait_83`,
     },
+    linkOne: 'Japanese 日本語',
+    linkTwo: 'Tenkara Shops',
+    linkThree: 'Keiryu Fishing Season',
+    linkFour: 'Fishing License',
+    linkFive: 'Toll Roads',
+    linkSix: 'Links',
+    linkSeven: 'About',
+    linkEight: 'Tenkara 101',
+    linkNine: 'Tags',
+    linkTen: 'Thank You',
+    linkEleven: 'Search',
+
+      menuLinks: [
+        {
+          name: "Home",
+          link: "/"
+        },
+        {
+          name: "Japanese 日本語",
+          link: "/learning-japanese",
+        },
+        {
+          name: "Tenkara Shops",
+          link: "/tenkara-fishing-stores",
+        },
+        {
+          name: "Keiryu Fishing Season",
+          link: "/keiryu-fishing-season",
+        },
+        {
+          name: "Fishing License",
+          link: "/japanese-fishing-license",
+        },
+        {
+          name: "Toll Roads",
+          link: "/toll-roads",
+        },
+        {
+          name: "Links",
+          link: "/links",
+        },
+        {
+          name: "About",
+          link: "/about"
+        },
+        {
+          name: "Tenkara 101",
+          link: "/tenkara-101"
+        },
+        {
+          name: "Prefectures",
+          link: "/tags",
+        },
+        {
+          name: "Thank You",
+          link: "/thank-you",
+        },
+        {
+          name: "Search",
+          link: "/search",
+        },
+    ],
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -51,12 +143,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -118,13 +204,11 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `content/assets/FfT_Logo_Thumbnail.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-gatsby-cloud`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-postcss`,
   ],
 }

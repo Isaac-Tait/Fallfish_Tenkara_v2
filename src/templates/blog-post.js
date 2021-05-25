@@ -1,83 +1,80 @@
-import * as React from "react"
+import React from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Navigation from "../components/navigation"
+import SEO from "../components/seo"
+import Footer from "../components/footer"
+import Comments from "../components/comments-queue"
 
-const BlogPostTemplate = ({ data, location }) => {
+const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const { previous, next } = data
+  const { previous, next } = pageContext
 
   return (
-    <Layout location={location} title={siteTitle}>
-      <Seo
+    <div location={location}>
+      <Navigation />
+      <Link to="/" class="uppercase font-bold text-red-500">Take me back to the Home Page</Link>
+      <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <article
-        className="blog-post"
-        itemScope
-        itemType="http://schema.org/Article"
-      >
-        <header>
-          <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+      
+      <article>
+        <header class="pl-6 mt-4 bg-red-500">
+            <p class="text-white text-3xl">{post.frontmatter.title}</p>
+            <p class="pl-2 text-gray-300">{post.frontmatter.date}</p>
         </header>
-        <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
-          itemProp="articleBody"
-        />
-        <hr />
-        <footer>
-          <Bio />
-        </footer>
+          
+        <div class="px-2 md:w-2/3 md:mx-auto">
+          <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        </div>
       </article>
-      <nav className="blog-post-nav">
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
+
+      <Comments /> 
+
+      <div>
+            <p class="font-semibold flex w-1/2 justify-center mx-auto">Blog Navigation</p>
+            <nav class="text-xs md:text-base flex w-1/2 justify-between mx-auto">
+
+            <p class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
             {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
+                <Link to={previous.fields.slug} rel="prev">
+                    ← {previous.frontmatter.title} 
+                </Link>
+                )}
+            </p>
+
+            <p class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
             {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
-      </nav>
-    </Layout>
+                <Link to={next.fields.slug} rel="next">
+                    {next.frontmatter.title} →
+                </Link>
+                )}
+            </p>
+      
+            </nav>
+        </div>
+
+      <div class="w-1/2 mx-auto">
+          <Bio />
+      </div>
+      
+      <Footer />
+    </div>
   )
 }
 
 export default BlogPostTemplate
 
 export const pageQuery = graphql`
-  query BlogPostBySlug(
-    $id: String!
-    $previousPostId: String
-    $nextPostId: String
-  ) {
+  query BlogPostBySlug($slug: String!) {
     site {
       siteMetadata {
         title
       }
     }
-    markdownRemark(id: { eq: $id }) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
       id
       excerpt(pruneLength: 160)
       html
@@ -85,22 +82,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
-      }
-    }
-    previous: markdownRemark(id: { eq: $previousPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
-      }
-    }
-    next: markdownRemark(id: { eq: $nextPostId }) {
-      fields {
-        slug
-      }
-      frontmatter {
-        title
       }
     }
   }
