@@ -40,13 +40,13 @@ const Layout = ({ location, children }) => {
 const logos = withArtDirection(getImage(data.desktopLogo), [
   {
     media: "(maxWidth: 1024px)",
-    image: getImage(data.smallLogo)
+    image: getImage(data.mobileLogo)
   }
 ])
 
   if (location.pathname === rootPath) {
     header = (
-      <div class="ml-20 mr-20 mb-2 h-40 w-40 bg-red-500 text-black">
+      <div class="ml-20 mr-20 mb-2">
         <GatsbyImage image={logos} alt="Fallfish Tenkara" />
       </div>
     )
