@@ -3,7 +3,7 @@ import { Link, useStaticQuery, graphql } from "gatsby"
 
 import Navigation from "../components/navigation"
 import Slider from "../components/slider"
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage, getImage, withArtDirection } from "gatsby-plugin-image";
 import Footer from "../components/footer"
 import Pagination from "../templates/blog-pagination"
 
@@ -37,13 +37,12 @@ const Layout = ({ location, children }) => {
 }
 `)
 
-const logos = [
-  data.mobileLogo.childImageSharp.gatsbyImageData,
+const logos = withArtDirection(getImage(data.desktopLogo), [
   {
-    ...data.desktopLogo.childImageSharp.gatsbyImageData,
-    media: `(min-width: 768px)`
+    media: "(maxWidth: 1024px)",
+    image: getImage(data.smallLogo)
   }
-]
+])
 
   if (location.pathname === rootPath) {
     header = (
