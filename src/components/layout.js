@@ -47,7 +47,7 @@ const logos = [
 
   if (location.pathname === rootPath) {
     header = (
-      <div class="ml-20 mr-20 mb-2">
+      <div class="ml-20 mr-20 mb-2 h-40 w-40 bg-red-500 text-black">
         <GatsbyImage image={logos} alt="Fallfish Tenkara" />
       </div>
     )
