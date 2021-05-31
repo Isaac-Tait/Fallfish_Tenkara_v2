@@ -27,6 +27,7 @@ const Layout = ({ location, children }) => {
     childImageSharp {
       gatsbyImageData(
         width: 250
+        height: 100
         quality: 100
         placeholder: BLURRED
         formats: [AUTO, WEBP, AVIF]
@@ -39,20 +40,20 @@ const Layout = ({ location, children }) => {
 
 const logos = withArtDirection(getImage(data.desktopLogo), [
   {
-    media: "(minWidth: 1024px)",
-    image: getImage(data.mobileLogo)
-  }
+    media: "(max-width: 1024px)",
+    image: getImage(data.mobileLogo),
+  },
 ])
 
   if (location.pathname === rootPath) {
     header = (
-      <div class="ml-20 mr-20 mb-2">
+      <div class="ml-20 mb-2">
         <GatsbyImage image={logos} alt="Fallfish Tenkara" />
       </div>
     )
   } else {
     header = (
-      <div class="ml-20 mr-20 mb-2">
+      <div class="ml-20 mb-2">
         <Link to={`/`}>
           <GatsbyImage image={logos} alt="Fallfish Tenkara" />
         </Link>
