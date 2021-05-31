@@ -1,6 +1,6 @@
 import React from "react";
 
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage, withArtDirection, getImage } from "gatsby-plugin-image";
 import { Link, useStaticQuery, graphql } from "gatsby"
 
 import Navigation from "../components/navigation"
@@ -34,13 +34,12 @@ const Press = ({ location }) => {
 }
 `)
 
-const logos = [
-  data.mobileLogo.childImageSharp.gatsbyImageData,
+const logos = withArtDirection(getImage(data.desktopLogo), [
   {
-    ...data.desktopLogo.childImageSharp.gatsbyImageData,
-    media: `(min-width: 768px)`
+    media: "(minWidth: 1024px)",
+    image: getImage(data.mobileLogo)
   }
-]
+])
 
     if (location.pathname === rootPath) {
         header = (

@@ -1,6 +1,6 @@
 import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage, withArtDirection, getImage } from "gatsby-plugin-image";
 
 import Footer from "../components/footer.js"
 import Bio from "../components/bio"
@@ -34,13 +34,12 @@ const ThankYouPage = ({ location, children }) => {
 }
 `)
 
-const logos = [
-  data.mobileLogo.childImageSharp.gatsbyImageData,
+const logos = withArtDirection(getImage(data.desktopLogo), [
   {
-    ...data.desktopLogo.childImageSharp.gatsbyImageData,
-    media: `(min-width: 768px)`
+    media: "(minWidth: 1024px)",
+    image: getImage(data.mobileLogo)
   }
-]
+])
 
   if (location.pathname === rootPath) {
     header = (

@@ -16,7 +16,7 @@ const Layout = ({ location, children }) => {
     childImageSharp {
       gatsbyImageData(
         width: 500
-        quality: 50
+        quality: 100
         placeholder: TRACED_SVG
         formats: [AUTO, WEBP, AVIF]
         layout: CONSTRAINED
@@ -39,7 +39,7 @@ const Layout = ({ location, children }) => {
 
 const logos = withArtDirection(getImage(data.desktopLogo), [
   {
-    media: "(maxWidth: 1024px)",
+    media: "(minWidth: 1024px)",
     image: getImage(data.mobileLogo)
   }
 ])
