@@ -26,8 +26,6 @@ const Layout = ({ location, children }) => {
   mobileLogo: file(absolutePath: {regex: "/FfT_Logo_Mobile.png/"}) {
     childImageSharp {
       gatsbyImageData(
-        width: 250
-        height: 100
         quality: 100
         placeholder: BLURRED
         formats: [AUTO, WEBP, AVIF]
@@ -47,13 +45,13 @@ const logos = withArtDirection(getImage(data.desktopLogo), [
 
   if (location.pathname === rootPath) {
     header = (
-      <div class="ml-20 mb-2">
+      <div class="px-4 md:ml-20">
         <GatsbyImage image={logos} alt="Fallfish Tenkara" />
       </div>
     )
   } else {
     header = (
-      <div class="ml-20 mb-2">
+      <div class="px-4 md:ml-20">
         <Link to={`/`}>
           <GatsbyImage image={logos} alt="Fallfish Tenkara" />
         </Link>
@@ -64,7 +62,7 @@ const logos = withArtDirection(getImage(data.desktopLogo), [
   return (
     <div class="flex flex-col">
       <Navigation />
-      <header class="pr-2 md:w-2/3">{header}</header>  
+      <header class="pr-2">{header}</header>  
         <div class="hidden md:block w-2/3 mx-auto">
           <Slider />
         </div>
