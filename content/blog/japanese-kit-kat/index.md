@@ -7,11 +7,11 @@ tags: [Tokyo Prefecture]
 <div class="text-lg mt-2">
 <p class="mb-2">Though my first week in Japan was a blur of jet lag, a slight bout of food poisoning, unpacking, and culture shock - one memory that stands out clearly from the blur was my first Japanese candy store. As I walked by the window of the candy store I could literally hear the glossy and colorful packaging calling my name and when I stepped inside I was greeted with a floor to ceiling display of Japanese Kit Kat candies. These were not your typical boring "<em>one flavor and that is it</em>" American version of Kit Kat, but rather a delectable cornucopia of flavors. I bought every flavor the store had for sale!</p>
 
-<p class="mt-2 mb-2">Last year my wife and I visited one of the largest <a href="https://www.fallfishtenkara.com/photobucket/" target="_blank" rel="noopener">Wasabi</a> farms in Japan. Real Wasabi (not the green dyed horseradish kind) is delicious. Adding it to a Kit Kat is nothing short of pure genius!</p>
+<p class="mt-2 mb-2">Last year my wife and I visited one of the largest <a href="https://www.fallfishtenkara.com/photobucket/" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Wasabi</a> farms in Japan. Real Wasabi (not the green dyed horseradish kind) is delicious. Adding it to a Kit Kat is nothing short of pure genius!</p>
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en">
-<p class="mt-2 mb-2">Do not eat and drive with sake-flavored Kit Kats <a href="https://t.co/K24hJ7yntt">https://t.co/K24hJ7yntt</a> | via <a href="https://twitter.com/japan_pulse" target="_blank" rel="noopener noreferrer">@japan_pulse</a> <a href="https://t.co/AtBxpLgmj6">pic.twitter.com/AtBxpLgmj6</a></p>
-— The Japan Times (@japantimes) <a href="https://twitter.com/japantimes/status/696128909167980545" target="_blank" rel="noopener noreferrer">February 7, 2016</a></blockquote>
+<p class="mt-2 mb-2">Do not eat and drive with sake-flavored Kit Kats <a href="https://t.co/K24hJ7yntt">https://t.co/K24hJ7yntt</a> | via <a href="https://twitter.com/japan_pulse" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">@japan_pulse</a> <a href="https://t.co/AtBxpLgmj6">pic.twitter.com/AtBxpLgmj6</a></p>
+— The Japan Times (@japantimes) <a href="https://twitter.com/japantimes/status/696128909167980545" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">February 7, 2016</a></blockquote>
 <script src="//platform.twitter.com/widgets.js" async="" charset="utf-8"></script>
 
 <p class="mt-2 mb-2">Not everyone is a fan of Red Bean Paste, I am not one of those people. I LOVE it!</p>
@@ -20,7 +20,7 @@ tags: [Tokyo Prefecture]
 
 <p class="mt-2 mb-2">One thing I will say about all these flavors is that if you find one you really enjoy, you better stock up now. The "umpa lumpas" are hard at work within the Nestle chocolate factory churning out new recipes and flavors all the time. After a while the flavors are fazed out and no longer sold (although they are resurrected from time to time depending on market demand - so do not give up hope if you cannot find your favorite flavor).</p>
 
-<p class="mt-2 mb-2">On a trip through Nagano, which is renowned throughout Japan for its Apples, we came across Apple Kit Kats. It turns out many <a href="https://mykitkats.wordpress.com/2013/02/17/japanese-kit-kats-regional-collection-%E6%97%A5%E6%9C%AC%E5%9B%BD%E3%82%AD%E3%83%83%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E5%91%B3%E9%81%8A%E8%A8%98/" target="_blank" rel="noopener">Japanese Prefectures (or regions)</a> have their own flavors of Kit Kat!</p>
+<p class="mt-2 mb-2">On a trip through Nagano, which is renowned throughout Japan for its Apples, we came across Apple Kit Kats. It turns out many <a href="https://mykitkats.wordpress.com/2013/02/17/japanese-kit-kats-regional-collection-%E6%97%A5%E6%9C%AC%E5%9B%BD%E3%82%AD%E3%83%83%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E5%91%B3%E9%81%8A%E8%A8%98/" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Japanese Prefectures (or regions)</a> have their own flavors of Kit Kat!</p>
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/A9H47LGsy7A?rel=0" frameborder="0" allowfullscreen></iframe></div>
 

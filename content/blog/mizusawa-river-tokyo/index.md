@@ -11,7 +11,7 @@ tags: [Kanagawa Prefecture]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Mizusawa+River/mount%2Btanzawa-keiryu-nakatsugawa%2Bfishery%2Bcooperatives-mist.jpg" alt="Mist over the river" />
 
-<p class="mb-2 mt-2">There was not a single car in the parking lot when I arrived. Fishing during the week almost always ensures solitude, something that can be hard to come by in Japan - especially when you are within an hours drive of Tokyo. I donned my <a href="https://www.fallfishtenkara.com/sawanobori-footwear/" target="_blank" rel="noopener noreferrer">Sawanobori gear</a> and headed up the road keeping a sharp eye out for a trail down to the river. Loggers had recently visited the area and the scent of freshly cut cedar hung thick in the humid air. There was a heavy mist over the river, it was serenely peaceful. As I rigged my trusty rod and slowly made my way towards the first pool a distant upstream weir added a dull roar to the cacophony of running water and bird calls.</p>
+<p class="mb-2 mt-2">There was not a single car in the parking lot when I arrived. Fishing during the week almost always ensures solitude, something that can be hard to come by in Japan - especially when you are within an hours drive of Tokyo. I donned my <a href="https://www.fallfishtenkara.com/sawanobori-footwear/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Sawanobori gear</a> and headed up the road keeping a sharp eye out for a trail down to the river. Loggers had recently visited the area and the scent of freshly cut cedar hung thick in the humid air. There was a heavy mist over the river, it was serenely peaceful. As I rigged my trusty rod and slowly made my way towards the first pool a distant upstream weir added a dull roar to the cacophony of running water and bird calls.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Mizusawa+River/mount%2Btanzawa-keiryu-nakatsugawa%2Bfishery%2Bcooperatives-river.jpg" alt="A wide section of the river" />
 
@@ -37,5 +37,5 @@ tags: [Kanagawa Prefecture]
 
 <p class="mb-2 mt-2">Fishing this river requires a fishing ticket which can be purchased from Nakatsugawa Fishery Cooperatives. For location information (including where to find Nakatsugawa Fishery Cooperatives) please see this map.
 
-Have any more questions? Drop me a line <a href="https://www.fallfishtenkara.com/about" target="_blank" rel="noopener noreferrer" >here</a>.</p>
+Have any more questions? Drop me a line <a href="https://www.fallfishtenkara.com/about" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
 </div>

@@ -32,6 +32,4 @@ tags: [Yamagata Prefecture]
 <p class="mt-2 mb-2">Thankfully the rain eased up just before sunrise the third day and the sun even began started poking its way through the clouds. After yet another delicious Japanese meal we packed up camp and began the desperate slog back to the car. Motivated by the promise of the "best ramen in Japan" and the blue skies the hike went by quickly and before I knew it we were back at the car. It had been a memorable trip but it was not over yet. We still had a seven hour drive back home, a ramen shop to find, and an onsen to soak in while sipping on some more chardonnay!</p>
 
 <p class="mt-2 mb-2 italic text-center font-semibold text-gray-400">To see more photos, check out this Google Photos Album <a href="https://photos.app.goo.gl/1rLkrZseiqaw3FgaA" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
-
-
 </div>

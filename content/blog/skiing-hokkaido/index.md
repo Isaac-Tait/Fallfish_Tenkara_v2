@@ -12,7 +12,7 @@ tags: [Hokkaido Prefecture]
 <p class="italic text-center">First tour (for me). Headed up Furanodake.</p>
 </div>
 
-<p class="mt-2 mb-2">I am experimenting with a new format; heavy on photos and light on words - because as you know they say "pictures speak a thousand words". Here's a map of where we went... If you want more beta <a href="http://www.fallfishtenkara.com/about/contact/" target="_blank" rel="noopener">hit me up</a>.</p>
+<p class="mt-2 mb-2">I am experimenting with a new format; heavy on photos and light on words - because as you know they say "pictures speak a thousand words". Here's a map of where we went... If you want more beta <a href="http://www.fallfishtenkara.com/about/contact/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">hit me up</a>.</p>
 
 <div class="mb-4">
     <iframe 

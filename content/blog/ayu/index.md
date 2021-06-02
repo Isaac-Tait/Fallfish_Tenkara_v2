@@ -47,6 +47,6 @@ tags: [Shizuoka Prefecture]
 
 <div class="w-8/12 mx-auto">
 <img class="rounded-lg shadow-lg" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Ayu/izu+peninsula-ayu-tenkara-amago-fly+fishing-japan-machan.JPG" alt="Our new local friend." />
-<p class="italic text-center">Left to Right: Kado-san, Ma-chan, Me (Isaac).</p>
+<p class="italic text-center">Left to Right: Kado-san, Ma-chan, and me (Isaac).</p>
 </div>
 </div>

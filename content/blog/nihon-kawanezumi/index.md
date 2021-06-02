@@ -27,7 +27,7 @@ tags: [Nagano Prefecture, Kanagawa Prefecture]
 
 
 
-<p class="mt-2 mb-2">Throughout the day I spotted several <a href="https://www.japantimes.co.jp/life/2004/03/11/environment/river-shrew/#.Vy0YiRV97sk" target="_blank" rel="noopener noreferrer">Nihon Kawanezumi</a> (or Japanese River Shrews). <a href="https://www.fallfishtenkara.com/mizusawa-river-tokyo/" target="_blank" rel="noopener noreferrer">Last year</a> I accidentally caught one. This time there were no such incidents. It was wonderful to spot so many as they are on the threatened species list due to pollution and environment encroachment.</p>
+<p class="mt-2 mb-2">Throughout the day I spotted several <a href="https://www.japantimes.co.jp/life/2004/03/11/environment/river-shrew/#.Vy0YiRV97sk" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Nihon Kawanezumi</a> (or Japanese River Shrews). <a href="https://www.fallfishtenkara.com/mizusawa-river-tokyo/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Last year</a> I accidentally caught one. This time there were no such incidents. It was wonderful to spot so many as they are on the threatened species list due to pollution and environment encroachment.</p>
 
 <p class="mt-2 mb-2">The whole day we only saw four or five people, down by the trail-head at a fishing co-op there were thousands of people fishing and BBQ-ing their catches. It was great to find such a beautiful and untouched river that we had to ourselves and no one to witness our passing but a few fish and of course a few Nihon Kawanezumi.</p>
 

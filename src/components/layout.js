@@ -19,7 +19,7 @@ const Layout = ({ location, children }) => {
         quality: 100
         placeholder: TRACED_SVG
         formats: [AUTO, WEBP, AVIF]
-        layout: CONSTRAINED
+        layout: FULL_WIDTH
       )
     }
   }
@@ -36,22 +36,22 @@ const Layout = ({ location, children }) => {
 }
 `)
 
-const logos = withArtDirection(getImage(data.desktopLogo), [
+const logos = withArtDirection(getImage(data.mobileLogo), [
   {
-    media: "(max-width: 1024px)",
-    image: getImage(data.mobileLogo),
+    media: "(min-width: 768px)",
+    image: getImage(data.desktopLogo),
   },
 ])
 
   if (location.pathname === rootPath) {
     header = (
-      <div class="px-4 md:ml-20">
+      <div class="px-4 mb-6 md:ml-20">
         <GatsbyImage image={logos} alt="Fallfish Tenkara" />
       </div>
     )
   } else {
     header = (
-      <div class="px-4 md:ml-20">
+      <div class="px-4 mb-6 md:ml-20">
         <Link to={`/`}>
           <GatsbyImage image={logos} alt="Fallfish Tenkara" />
         </Link>

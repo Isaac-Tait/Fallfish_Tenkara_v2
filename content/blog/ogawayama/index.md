@@ -25,11 +25,11 @@ tags: [Nagano Prefecture]
 
 <p class="mt-2 mb-2">Here are several helpful websites to help with planning your visit.</p>
 
-<p class="mt-2 mb-2">&#128205; <a href="https://w2.avis.ne.jp/~mawarime/" target="_blank" rel="noopener noreferrer">Lodging</a>.</p>
+<p class="mt-2 mb-2">&#128205; <a href="https://w2.avis.ne.jp/~mawarime/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Lodging</a>.</p>
 
-<p class="mt-2 mb-2">&#128205; <a href="https://www.ogawayama.com/" target="_blank" rel="noopener noreferrer">Rock Climbing Info</a>.</p>
+<p class="mt-2 mb-2">&#128205; <a href="https://www.ogawayama.com/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Rock Climbing Info</a>.</p>
 
-<p class="mt-2 mb-2">&#128205; <a href="https://www.ukclimbing.com/articles/page.php?id=264" target="_blank" rel="noopener noreferrer">Area Feature</a>.</p>
+<p class="mt-2 mb-2">&#128205; <a href="https://www.ukclimbing.com/articles/page.php?id=264" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Area Feature</a>.</p>
 
 <p class="mt-2 mb-2">And a map I put together too:</p>
 

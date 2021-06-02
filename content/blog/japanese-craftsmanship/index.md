@@ -13,8 +13,7 @@ tags: [Random]
 
 <p class="mt-2 mb-2">So, in the same vein of Japanese craftsmanship, I am sharing some more exquisite Japanese craftsmanship that I have discovered recently.</p>
 
-<p class="mt-2 mb-2">I recommend watching <a href="https://youtu.be/rMtSc2MJLcw" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white"
->this</a> about Miya Shoji a Japanese carpenter who moved to New York City to perfect his carpentry. It is a fascinating video and well worth watching imo.</p>
+<p class="mt-2 mb-2">I recommend watching <a href="https://youtu.be/rMtSc2MJLcw" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">this</a> about Miya Shoji a Japanese carpenter who moved to New York City to perfect his carpentry. It is a fascinating video and well worth watching imo.</p>
 
 <hr />
 

@@ -11,15 +11,15 @@ tags: [Random]
 
 <p class="mb-2 mt-2 font-bold">Before You Arrive</p>
 
-<p class="mb-2 mt-2">If you are planning on doing any driving make sure you stop by AAA and pick up an <a href="https://www.aaa.com/vacation/idpf.html" target="_blank" rel="noopener noreferrer">International Drivers License</a> they only cost $15 and allow you to drive a rental car once you arrive in Japan. Do keep in mind that they drive on the left and you are probably not going to recognize some of the road signs (although most are pretty intuitive).</p>
+<p class="mb-2 mt-2">If you are planning on doing any driving make sure you stop by AAA and pick up an <a href="https://www.aaa.com/vacation/idpf.html" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">International Drivers License</a> they only cost $15 and allow you to drive a rental car once you arrive in Japan. Do keep in mind that they drive on the left and you are probably not going to recognize some of the road signs (although most are pretty intuitive).</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/downtown+yokohama-visiting+japan.JPG" alt="Downtown Yokohama" />
 
-<p class="mb-2 mt-2">Also before you arrive make sure you pick up a <a href="https://www.japan-rail-pass.com/?ap=j0095g" target="_blank" rel="noopener noreferrer">Japan Rail Pass</a> They are worth their weight in gold and will save you a TON of money. They are mailed to your home of record so make sure you order it several weeks before your trip.</p>
+<p class="mb-2 mt-2">Also before you arrive make sure you pick up a <a href="https://www.japan-rail-pass.com/?ap=j0095g" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Japan Rail Pass</a> They are worth their weight in gold and will save you a TON of money. They are mailed to your home of record so make sure you order it several weeks before your trip.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/hapo+one+ski+resort-visiting+japan.jpg" alt="Hapo One Ski Resort" />
 
-<p class="mb-2 mt-2">If you do rent a car it would be very helpful to have an ETC Pass, this <a href="https://www2.tocoo.jp/en/contents/info/etc" target="_blank" rel="noopener noreferrer">site</a> has a great breakdown of the ETC Pass as well as driving in Japan.</p>
+<p class="mb-2 mt-2">If you do rent a car it would be very helpful to have an ETC Pass, this <a href="https://www2.tocoo.jp/en/contents/info/etc" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">site</a> has a great breakdown of the ETC Pass as well as driving in Japan.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/japanese+road+signs-1.jpg" alt="Road signs" />
 
@@ -27,7 +27,7 @@ tags: [Random]
 
 <p class="mb-2 mt-2 font-bold">At the Airport</p>
 
-<p class="mb-2 mt-2">Once you have made it through customs and picked up your luggage you will have the option to <a href="https://www.narita-airport.jp/en/guide/service/list/svc_19.html" target="_blank" rel="noopener noreferrer">rent cell phones</a>. There are many options to choose from. The two largest cell phone providers in Japan are SoftBank and AU. I have been told that SoftBank has the best coverage and <a href="https://www.softbank-rental.jp/e/" target="_blank" rel="noopener noreferrer">SoftBank</a> does offers many rental options to stay connected.</p>
+<p class="mb-2 mt-2">Once you have made it through customs and picked up your luggage you will have the option to <a href="https://www.narita-airport.jp/en/guide/service/list/svc_19.html" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">rent cell phones</a>. There are many options to choose from. The two largest cell phone providers in Japan are SoftBank and AU. I have been told that SoftBank has the best coverage and <a href="https://www.softbank-rental.jp/e/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">SoftBank</a> does offers many rental options to stay connected.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/ika+sushi-visiting+japan.JPG" alt="Sushi" />
 
@@ -37,8 +37,8 @@ tags: [Random]
 <ul>
  	<li>Google Translate - I use this everyday. You can take pictures of writing and it will translate. It translates voice too and is super helpful.</li>
  	<li>Hyperdia Train Schedule - Another very helpful app and great for short visits. Once you've used the 'free trial' though it becomes very expensive to use.</li>
- 	<li>Everything in Japan is in metric and the exchange rate changes daily. A <a href="https://itunes.apple.com/us/app/converter-plus-units-currencies/id370146222?mt=8" target="_blank" rel="noopener noreferrer">converter app</a> is a good idea</li>
- 	<li>In case you did not know there are a lot of earthquakes in Japan. <a href="https://itunes.apple.com/us/app/yurekuru-call/id398954883?mt=8" target="_blank" rel="noopener noreferrer">This app</a> will warn you if one is about to strike near you, as well tell you how big it was/is, and whether you should evacuate (especially helpful if you are near the ocean).</li>
+ 	<li>Everything in Japan is in metric and the exchange rate changes daily. A <a href="https://itunes.apple.com/us/app/converter-plus-units-currencies/id370146222?mt=8" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">converter app</a> is a good idea</li>
+ 	<li>In case you did not know there are a lot of earthquakes in Japan. <a href="https://itunes.apple.com/us/app/yurekuru-call/id398954883?mt=8" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">This app</a> will warn you if one is about to strike near you, as well tell you how big it was/is, and whether you should evacuate (especially helpful if you are near the ocean).</li>
 </ul>
 <p class="mb-2 mt-2 font-bold">Visiting Japan</p>
 
@@ -55,12 +55,12 @@ tags: [Random]
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/milk+shop-train+station-japan.JPG" alt="Milk store" />
 
 <p class="underline">Customs and Courtesies</p>
-<ul>
- 	<li>When bowing make sure you do not make eye contact - this is very rude.</li>
- 	<li>Never stick your chopsticks straight into your rice and leave them there. This is done during a Japanese death ceremony, doing so outside of this ceremony is considered very rude.</li>
- 	<li>No matter how big the food item you are eating it is rude to eat it in bites with your chopsticks. Put the whole thing in your mouth in one big bite. Also feeding someone with your chopsticks is another no-no.</li>
- 	<li>It is considered impolite to not finish all the food that you order or are given. When my wife and I eat in town we often bring a small container, to put food in that we cannot eat because we are either too full or we cannot stomach it. .</li>
-</ul>
+<div class="ml-4">
+<li>When bowing make sure you do not make eye contact - this is very rude.</li>
+<li>Never stick your chopsticks straight into your rice and leave them there. This is done during a Japanese death ceremony, doing so outside of this ceremony is considered very rude.</li>
+<li>No matter how big the food item you are eating it is rude to eat it in bites with your chopsticks. Put the whole thing in your mouth in one big bite. Also feeding someone with your chopsticks is another no-no.</li>
+<li>It is considered impolite to not finish all the food that you order or are given. When my wife and I eat in town we often bring a small container, to put food in that we cannot eat because we are either too full or we cannot stomach it. .</li>
+</div>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/rabit+cafe%CC%81-visiting+japan.JPG" alt="Rabbit cafe" />
 
@@ -76,7 +76,7 @@ tags: [Random]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/shinto+shrine-miura+peninsula.JPG" alt="Shinto Shrine" />
 
-<p class="mb-2 mt-2">So that is a quick summary of important tips and information for those planning on visiting Japan. Be sure to check out my <a href="https://www.fallfishtenkara.com/information/" target="_blank" rel="noopener noreferrer">Information Page</a> for more info. If you have any specific questions feel free to <a href="https://www.fallfishtenkara.com/about/" target="_blank" rel="noopener noreferrer">contact me</a> or reach out on <a href="https://www.facebook.com/fallfishtenkara" target="_blank" rel="noopener noreferrer">Facebook</a>.</p>
+<p class="mb-2 mt-2">So that is a quick summary of important tips and information for those planning on visiting Japan. Be sure to check out my <a href="https://www.fallfishtenkara.com/information/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Information Page</a> for more info. If you have any specific questions feel free to <a href="https://www.fallfishtenkara.com/about/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">contact me</a>.</p>
 
 <p class="mt-2 font-bold">Sayonara!</p>
 </div>

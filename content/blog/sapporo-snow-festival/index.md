@@ -36,9 +36,9 @@ tags: [Hokkaido Prefecture]
 
 <p class="mt-2 mb-2">Travel:</p>
 
-<p class="mt-2 mb-2">We stayed at the <a href="https://www.apahotel.com.e.ju.hp.transer.com/language/hokkaido/04_resort-sapporo.html" target="_blank" rel="noopener noreferrer" <p class="mt-2 mb-2">APA Hotel &amp; Resort Sapporo</a> They spoke great English and had a massive breakfast buffet every morning for only ¥1200! The rooms were large and had a western feel with a Japanese twist (hard mattresses and bean filled pillows and an awesome shower room!).</p>
+<p class="mt-2 mb-2">We stayed at the <a href="https://www.apahotel.com.e.ju.hp.transer.com/language/hokkaido/04_resort-sapporo.html" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">APA Hotel &amp; Resort Sapporo</a>. They spoke great English and had a massive breakfast buffet every morning for only ¥1200! The rooms were large and had a western feel with a Japanese twist (hard mattresses and bean filled pillows and an awesome shower room!).</p>
 
-<p class="mt-2 mb-2"><a href="https://www.vanilla-air.com/en/" target="_blank" rel="noopener noreferrer">Vanilla Air</a> offers convenient flights up to Hokkaido. Normally they are incredibly cheap (roughly $80 RT) but during the Sapporo Snow Festival they up the price to about $150 RT, which is still pretty cheap imo. I am told that the back-country Tenkara in Hokkaido is phenomenal, so if you are planning a visit during the warmer months Vanilla Air is a great choice.</p>
+<p class="mt-2 mb-2"><a href="https://www.vanilla-air.com/en/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Vanilla Air</a> offers convenient flights up to Hokkaido. Normally they are incredibly cheap (roughly $80 RT) but during the Sapporo Snow Festival they up the price to about $150 RT, which is still pretty cheap imo. I am told that the back-country Tenkara in Hokkaido is phenomenal, so if you are planning a visit during the warmer months Vanilla Air is a great choice.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
 </div>

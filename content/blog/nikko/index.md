@@ -19,7 +19,7 @@ tags: [Tochigi Prefecture]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-crowds_3.JPG" alt="Ahh the days before COVID-19" />
 
-<p class="mt-2 mb-2">We wandered around Nikko for a while, found a great place to <a href="https://tabelog.com/en/tochigi/A0903/A090301/9015090/#anchor-rd-detail" target="_blank" rel="noreferrer noopener">eat</a>, and soaked in some culture before we headed up into the mountains.</p>
+<p class="mt-2 mb-2">We wandered around Nikko for a while, found a great place to <a href="https://tabelog.com/en/tochigi/A0903/A090301/9015090/#anchor-rd-detail" target="_blank" rel="noreferrer noopener" class="text-red-500 hover:bg-red-500 hover:text-white">eat</a>, and soaked in some culture before we headed up into the mountains.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-sakana.JPG" alt="Anglers at the lake" />
 
@@ -43,7 +43,7 @@ tags: [Tochigi Prefecture]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-landscape.JPG" alt="Peaceful waterscape" />
 
-<p class="mt-2 mb-2">Lake Yuno is stocked with Brook Trout, Brown Trout, and <a href="https://www.fallfishtenkara.com/grayling/" target="_blank" rel="noreferrer noopener">Grayling</a> (I had no idea that Grayling were stocked in Japan)! The Yukawa (湯川) below Lake Yuno is one of the premier Brook Trout fisheries in Japan. Way back in 1902 25,000 Brook Trout eggs were imported from Colorado and transplanted here. The river is also unique to Japan in that nearly the entire length of the river is catch and release. Consequently, the Brook Trout that you can catch in this river have been here for over 110 years! More info <a href="https://www.geocities.jp/japhighlander1959/nikkouyukawa.htm" target="_blank" rel="noreferrer noopener">here</a>.</p>
+<p class="mt-2 mb-2">Lake Yuno is stocked with Brook Trout, Brown Trout, and <a href="https://www.fallfishtenkara.com/grayling/" target="_blank" rel="noreferrer noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Grayling</a> (I had no idea that Grayling were stocked in Japan)! The Yukawa (湯川) below Lake Yuno is one of the premier Brook Trout fisheries in Japan. Way back in 1902 25,000 Brook Trout eggs were imported from Colorado and transplanted here. The river is also unique to Japan in that nearly the entire length of the river is catch and release. Consequently, the Brook Trout that you can catch in this river have been here for over 110 years! More info <a href="https://www.geocities.jp/japhighlander1959/nikkouyukawa.htm" target="_blank" rel="noreferrer noopener" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-shrine.JPG" alt="Another shot of the shrine and crowds" />
 
@@ -51,7 +51,7 @@ tags: [Tochigi Prefecture]
 
 <p class="mb-2 font-semibold">Exploring Utsonomiya</p>
 
-<p class="mt-2 mb-2">About one hour south of Nikko lies the city of Utsunomiya. While there are a few things to do and see here we visited exclusively to do some rock climbing at <a href="https://www.mountainproject.com/v/tochigi-prefecture--kogashi-yama/107616710" target="_blank" rel="noreferrer noopener">Kogashiyama</a> (古賀志山).</p>
+<p class="mt-2 mb-2">About one hour south of Nikko lies the city of Utsunomiya. While there are a few things to do and see here we visited exclusively to do some rock climbing at <a href="https://www.mountainproject.com/v/tochigi-prefecture--kogashi-yama/107616710" target="_blank" rel="noreferrer noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Kogashiyama</a> (古賀志山).</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-hiking_trail.JPG" alt="" />
 

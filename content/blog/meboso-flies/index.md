@@ -18,8 +18,8 @@ tags: [Random]
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/wooly+bugger-beed+head-streamer-fly-tenkara-uratanzawa.JPG" alt="Wooly buggers - beed-heads" />
 
 <p class="mb-2 mt-2">Next up are a collection of bead head Wooly Bugger streamer style flies, tied on a size 16 hook. These were tied by the folks at <a 
-href="https://www.fallfishtenkara.com/uratanzawa/" target="_blank" rel="noopener noreferrer" >Uratanzawa</a>. As the season changes they update the flies that they sell. So if you're striking out stop by the shack and pick up a few of their recommended flies. The prices are very reasonable (especially by Japanese standards). These flies turned a six hour day with only two bites into a success when I brought two beautiful Rainbows to hand within a few minutes of each other. They worked especially well for the <a 
-href="https://www.fallfishtenkara.com/plum-rain/" target="_blank" rel="noopener noreferrer" >glacial runoff looking waters</a> we experienced after the most recent typhoon.</p>
+href="https://www.fallfishtenkara.com/uratanzawa/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Uratanzawa</a>. As the season changes they update the flies that they sell. So if you're striking out stop by the shack and pick up a few of their recommended flies. The prices are very reasonable (especially by Japanese standards). These flies turned a six hour day with only two bites into a success when I brought two beautiful Rainbows to hand within a few minutes of each other. They worked especially well for the <a 
+href="https://www.fallfishtenkara.com/plum-rain/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">glacial runoff looking waters</a> we experienced after the most recent typhoon.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/ultra+tiny+fly-tenkara-fly+fishing-fishing-closeup.JPG" alt="A tiny fly as big as FDR's ear (on a US Dime)" />
 
@@ -34,7 +34,7 @@ href="https://www.fallfishtenkara.com/plum-rain/" target="_blank" rel="noopener 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/Meboso-Kanazawa-Meboso+Hachirobei+Company-tenkara-flies-art.JPG" alt="I believe these flies are tied specifically to target Ayu" />
 
 <p class="mb-2 mt-2">Last, and certainly not least a friend of mine recently visited Kanazawa, Japan. Kanazawa is the home of Meboso Hachirobei Company. He was kind enough to pick me up two exquisite Meboso flies! Meboso has been hand making flies in Japan for 20 generations (or 430 years) - they originally started with making needles! You can read all about this incredible company on TenkaraUSA's blog <a 
-href="https://www.tenkarausa.com/one-of-the-possible-origins-of-tenkara-part-1/" target="_blank" rel="noopener noreferrer">here</a>. The flies are incredibly beautiful!</p>
+href="https://www.tenkarausa.com/one-of-the-possible-origins-of-tenkara-part-1/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>. The flies are incredibly beautiful!</p>
 
-<p class="mb-2 mt-2">And here is a video compilation from my recent fishing trip to <a href="https://www.fallfishtenkara.com/oshino-photo/" target="_blank" rel="noopener noreferrer">Oshino Creek</a>. Enjoy!</p>
+<p class="mb-2 mt-2">And here is a video compilation from my recent fishing trip to <a href="https://www.fallfishtenkara.com/oshino-photo/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Oshino Creek</a>. Enjoy!</p>
 </div>

@@ -7,7 +7,7 @@ tags: [Gear]
 <div class="text-lg mt-2">
 <p class="mb-2">Do not let the name fool you, the <a href="https://www.zimmerbuilt.com/store/p34/TailWater_Pack.html" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Zimmerbuilt Tailwaters Pack</a> is just at home in the ultra-remote drainages that I actively seek out; as it is in the more accessible waters found below hydraulic structures (as its name might imply).</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Zimmerbuilt+Pack/Zimmerbuilt+Tailwaters+Pack-Tenkara-Gear-backpack-keiryu-kebari-logo.jpg" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Zimmerbuilt+Pack/Zimmerbuilt+Tailwaters+Pack-Tenkara-Gear-backpack-keiryu-kebari-logo.jpg" alt="zimmerbuilt logo" />
 
 <p class="mt-2 mb-2">After several outings with my <a href="https://www.zimmerbuilt.com" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Zimmerbuilt</a> Tailwaters Pack I have been asking myself why I did not get this pack sooner. I have fallen off of boulders into 45° mountain stream water up to my neck, and the contents of my pack have stayed dry. She carries all sorts of necessary gear (see photo below) with room to spare. Whether I am hiking or riding a mountain bike, she rides comfortably on my back. Splattered in mud and dragged through all manner of spiky brush she never bats an eye. In other words the Tailwaters pack is a perfect river companion - never complaining, always willing to take what you can dish out, and she always lets you fish the best holes.</p>
 

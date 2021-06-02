@@ -1,3 +1,4 @@
+//Pagination located at the bottom of blog to navigate back or forwards...
 import React from "react"
 import { Link, graphql } from "gatsby"
 
@@ -37,21 +38,21 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             <p class="font-semibold flex w-1/2 justify-center mx-auto">Blog Navigation</p>
             <nav class="text-xs md:text-base flex w-1/2 justify-between mx-auto">
 
-            <p class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
+            <div>
             {previous && (
                 <Link to={previous.fields.slug} rel="prev">
-                    ← {previous.frontmatter.title} 
+                    <button class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">← {previous.frontmatter.title}</button> 
                 </Link>
                 )}
-            </p>
+            </div>
 
-            <p class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">
+            <div>
             {next && (
                 <Link to={next.fields.slug} rel="next">
-                    {next.frontmatter.title} →
+                    <button class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black">{next.frontmatter.title} →</button>
                 </Link>
                 )}
-            </p>
+            </div>
       
             </nav>
         </div>

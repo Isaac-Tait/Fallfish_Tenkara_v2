@@ -36,21 +36,11 @@ tags: [Niigata Prefecture]
 
 <hr />
 
-<ul>
- 	<li>
-     Udo (ウド) Has large broad leaves. The young shoots are what you want to forage for.
-    </li>
- 	<li>
-     Braken (ワラビ a.k.a. Warabi) We know them as Ferns, or fiddleheads, they were growing everywhere.
-    </li>
- 	<li>
-     Urui (オオバギボウシ a.k.a. Ohba Hosta) This plant was more common very close to the river. There were thousands of plants growing up the sides of the banks. The big broad leaves are great for wrapping up fish, to help keep them fresh. The young sprouts are what you want to eat and are quite tasty.
-    </li>
- 	<li>Takenoko (タケノコ a.k.a. Nemagaritake) We know it as Bamboo Shoots. The fat short stalks taste the best
-    </li>
- 	<li>Mizu (ウワバミソウ a.k.a. Uwabamisou) Similar to Arugula, the jagged leaves and small whitish flowers help identify this plant as the edible variety. The stalks are reddish and can be eaten raw.
-    </li>
-</ul>
+<li class="ml-4 mr-4 mt-2">Udo (ウド) Has large broad leaves. The young shoots are what you want to forage for.</li>
+<li class="ml-4 mr-4">Braken (ワラビ a.k.a. Warabi) We know them as Ferns, or fiddleheads, they were growing everywhere.</li>
+<li class="ml-4 mr-4">Urui (オオバギボウシ a.k.a. Ohba Hosta) This plant was more common very close to the river. There were thousands of plants growing up the sides of the banks. The big broad leaves are great for wrapping up fish, to help keep them fresh. The young sprouts are what you want to eat and are quite tasty.</li>
+<li class="ml-4 mr-4">Takenoko (タケノコ a.k.a. Nemagaritake) We know it as Bamboo Shoots. The fat short stalks taste the best</li>
+<li class="ml-4 mr-4 mb-2">Mizu (ウワバミソウ a.k.a. Uwabamisou) Similar to Arugula, the jagged leaves and small whitish flowers help identify this plant as the edible variety. The stalks are reddish and can be eaten raw.</li>
 
 <hr />
 

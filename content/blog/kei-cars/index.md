@@ -21,12 +21,13 @@ tags: [Random]
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Kei+Cars/kei-car-kei-trucks-utility-road-signs.JPG" alt="Parking lot filled with kei cars" />
 
 <p class="mb-2 mt-2">Here are a few examples of how the Kei cars makes a lot of sense for me and the driving I do in Japan.</p>
-<ul>
- 	<li class="ml-4 mr-4">&#10006;I need a car that can carry all of my gear and equipment but still offer an incognito place to lay my head at night. Surprisingly these vehicles have a large interior space that even my six foot tall frame can comfortably lay down inside of (with the seats folded down of course).</li>
- 	<li class="ml-4 mr-4">&#10006;Driving in Japan can cost an arm and a leg, due to the toll roads, so the break Kei cars get on the toll costs more than makes up for their small stature.</li>
- 	<li class="ml-4 mr-4">&#10006;Obviously with a 660cc engine you can expect good gas mileage and the Kei cars does not disappoint in that department either.</li>
- 	<li class="ml-4 mr-4">&#10006;Then there are the roads in Japan. I cannot tell you how many times I have missed a turn because my GPS is telling me to turn down a sidewalk. I assume the GPS must be off and I continue on down the road only to discover that that sidewalk was actually a two lane highway! To say that the roads here are narrow would be an understatement. On more than one occasion I have had to fold both my mirrors in to fit down a street or allow an oncoming car to squeeze by. This is where Kei cars truly shine.</li>
-</ul>
+
+<div class="ml-4">
+<li class="">I need a car that can carry all of my gear and equipment but still offer an incognito place to lay my head at night. Surprisingly these vehicles have a large interior space that even my six foot tall frame can comfortably lay down inside of (with the seats folded down of course).</li>
+<li class="">Driving in Japan can cost an arm and a leg, due to the toll roads, so the break Kei cars get on the toll costs more than makes up for their small stature.</li>
+<li class="">Obviously with a 660cc engine you can expect good gas mileage and the Kei cars does not disappoint in that department either.</li>
+<li class="">Then there are the roads in Japan. I cannot tell you how many times I have missed a turn because my GPS is telling me to turn down a sidewalk. I assume the GPS must be off and I continue on down the road only to discover that that sidewalk was actually a two lane highway! To say that the roads here are narrow would be an understatement. On more than one occasion I have had to fold both my mirrors in to fit down a street or allow an oncoming car to squeeze by. This is where Kei cars truly shine.</li>
+</div>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Kei+Cars/kei-cars-beach-house.JPG" alt="Beach house" />
 
