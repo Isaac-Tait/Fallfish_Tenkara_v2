@@ -19,7 +19,7 @@ const Layout = ({ location, children }) => {
         quality: 100
         placeholder: TRACED_SVG
         formats: [AUTO, WEBP, AVIF]
-        layout: FULL_WIDTH
+        layout: CONSTRAINED
       )
     }
   }
