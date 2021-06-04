@@ -36,10 +36,10 @@ const Layout = ({ location, children }) => {
 }
 `)
 
-const logos = withArtDirection(getImage(data.mobileLogo), [
+const logos = withArtDirection(getImage(data.desktopLogo), [
   {
-    media: "(min-width: 768px)",
-    image: getImage(data.desktopLogo),
+    media: "(max-width: 1024px)",
+    image: getImage(data.mobileLogo),
   },
 ])
 
