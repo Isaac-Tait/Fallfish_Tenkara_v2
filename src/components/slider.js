@@ -40,8 +40,8 @@ function Slider() {
                     alt="Slider Images" />
             </div>
             <div class="flex w-1/2 justify-between mx-auto">
-                <button class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black" onClick={() => handlePrevious()}>&#11013; Image</button>
-                <button class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-white hover:bg-gray-300 hover:text-black" onClick={() => handleNext()}>Image &#10145;</button>
+                <button class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-gray-800 hover:bg-gray-300 hover:text-black" onClick={() => handlePrevious()}>&#11013; Image</button>
+                <button class="tracking-wide m-2 inline-block px-3 py-1 rounded-lg shadow-lg bg-red-500 text-gray-800 hover:bg-gray-300 hover:text-black" onClick={() => handleNext()}>Image &#10145;</button>
             </div>
         </div>
     );

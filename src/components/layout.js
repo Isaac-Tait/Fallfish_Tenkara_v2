@@ -60,7 +60,7 @@ const logos = withArtDirection(getImage(data.desktopLogo), [
     )
   }
   return (
-    <div class="flex flex-col">
+    <div class="flex flex-col bg-gray-400">
       <Navigation />
       <header class="pr-2">{header}</header>  
         <div class="hidden md:block w-2/3 mx-auto">
