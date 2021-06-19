@@ -5,4 +5,4 @@ This site has been a labor of love spanning six plus years. I am migrating from 
 
 <p>Another <a href="https://mountaintopcoding.com" target="_blank" rel="noopener noreferrer">mountainTopCoding(<span role="img" aria-label="mountain with snow-cap">&#127956;</span>);</a> project.</p>
 
-Check out the live site at: https://www.fallfishtenkara.com
+Check out the live site at: https://fallfishtenkara.com
