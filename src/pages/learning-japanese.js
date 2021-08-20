@@ -10,35 +10,36 @@ const Japanese = ({ location }) => {
     let header
 
     const data = useStaticQuery(graphql`{
-  desktopLogo: file(absolutePath: {regex: "/FfT_Logo_Desktop.png/"}) {
-    childImageSharp {
-      gatsbyImageData(
-        width: 500
-        quality: 50
-        placeholder: TRACED_SVG
-        layout: CONSTRAINED
-      )
+      desktopLogo: file(absolutePath: {regex: "/FfT_Logo_Desktop.png/"}) {
+        childImageSharp {
+          gatsbyImageData(
+            width: 500
+            quality: 100
+            placeholder: TRACED_SVG
+            formats: [AUTO, WEBP, AVIF]
+            layout: CONSTRAINED
+          )
+        }
+      }
+      mobileLogo: file(absolutePath: {regex: "/FfT_Logo_Mobile.png/"}) {
+        childImageSharp {
+          gatsbyImageData(
+            quality: 100
+            placeholder: BLURRED
+            formats: [AUTO, WEBP, AVIF]
+            layout: CONSTRAINED
+          )
+        }
+      }
     }
-  }
-  mobileLogo: file(absolutePath: {regex: "/FfT_Logo_Mobile.png/"}) {
-    childImageSharp {
-      gatsbyImageData(
-        width: 250
-        quality: 100
-        placeholder: TRACED_SVG
-        layout: CONSTRAINED
-      )
-    }
-  }
-}
-`)
-
-const logos = withArtDirection(getImage(data.desktopLogo), [
-  {
-    media: "(minWidth: 1024px)",
-    image: getImage(data.mobileLogo)
-  }
-])
+    `)
+    
+    const logos = withArtDirection(getImage(data.desktopLogo), [
+      {
+        media: "(max-width: 1024px)",
+        image: getImage(data.mobileLogo),
+      },
+    ])
 
     if (location.pathname === rootPath) {
         header = (
