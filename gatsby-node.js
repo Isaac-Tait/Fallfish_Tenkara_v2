@@ -6,9 +6,9 @@ const { paginate } = require('gatsby-awesome-pagination')
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const blogPost = path.resolve(`./src/templates/blog-post.js`)
+  const blogTemplate = path.resolve(`./src/templates/blog-template.js`)
   const tagTemplate = path.resolve("./src/templates/tags.js")
-  const blogPagination = path.resolve(`./src/templates/blog-pagination.js`)
+  const blogList = path.resolve(`./src/templates/blog-list-grouping.js`)
 
   const result = await graphql(
     `
@@ -49,7 +49,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
     createPage({
       path: post.node.fields.slug,
-      component: blogPost,
+      component: blogTemplate,
       context: {
         slug: post.node.fields.slug,
         previous,
@@ -77,7 +77,7 @@ exports.createPages = async ({ graphql, actions }) => {
     items: result.data.allMarkdownRemark.edges,
     itemsPerPage: 10,
     pathPrefix: '/blog',
-    component: blogPagination,
+    component: blogList,
   })
 }
 

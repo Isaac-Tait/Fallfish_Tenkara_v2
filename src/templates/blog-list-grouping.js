@@ -48,7 +48,6 @@ const BlogPagination = ({ data, location, pageContext }) => {
                   <div class="font-extrabold text-xl hover:text-red-500 hover:rounded">
                     <Link to={node.fields.slug}> {title} </Link>
                   </div>
-
                   <div class="pl-2 text-sm text-gray-800">
                     <p>{node.frontmatter.date}</p>
                   </div>

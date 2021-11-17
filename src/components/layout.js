@@ -5,7 +5,7 @@ import Navigation from "../components/navigation"
 import Slider from "../components/slider"
 import { GatsbyImage, getImage, withArtDirection } from "gatsby-plugin-image";
 import Footer from "../components/footer"
-import Pagination from "../templates/blog-pagination"
+import Pagination from "../templates/blog-list-grouping"
 
 const Layout = ({ location, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`

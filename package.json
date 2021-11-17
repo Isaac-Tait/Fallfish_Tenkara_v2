@@ -14,7 +14,6 @@
     "gatsby": "^4.0.0",
     "gatsby-awesome-pagination": "^0.3.8",
     "gatsby-plugin-disqus": "^1.2.3",
-    "gatsby-plugin-feed": "^4.0.0",
     "gatsby-plugin-gatsby-cloud": "^4.0.0",
     "gatsby-plugin-google-analytics": "^4.0.0",
     "gatsby-plugin-image": "^2.0.0",
