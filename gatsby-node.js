@@ -46,7 +46,7 @@ exports.createPages = async ({ graphql, actions }) => {
   posts.forEach((post, index) => {
     const previous = index === 0 ? null : posts[index - 1].node
     const next = index === (posts.length - 1) ? null : posts[index + 1].node
-
+    
     createPage({
       path: post.node.fields.slug,
       component: blogTemplate,
@@ -60,7 +60,6 @@ exports.createPages = async ({ graphql, actions }) => {
 
   // Extract tag data from query
   const tags = result.data.tagsGroup.group
-  // Make tag pages
   tags.forEach(tag => {
     createPage({
       path: `/tags/${_.kebabCase(tag.fieldValue)}/`,

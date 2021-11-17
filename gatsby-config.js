@@ -36,7 +36,7 @@ module.exports = {
       summary: `who now lives in San Diego but dreams of returning, one day, to Japan.`,
     },
     description: `Exploring Japan One River At A Time`,
-    siteUrl: `https://www.fallfishtenkara.com`,
+    siteUrl: `https://fallfishtenkara.com`,
     social: {
       twitter: `Isaac_Tait_83`,
     },
@@ -136,8 +136,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
         name: `blog`,
+        path: `${__dirname}/content/blog`,
       },
     },
     {
