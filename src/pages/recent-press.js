@@ -59,22 +59,14 @@ const Press = ({ location }) => {
         )
     }
     return (
-        <div>
+        <div className='heropattern-topography-gray-400'>
             <Navigation />
             <header class="pr-2 md:w-2/3">{header}</header>
-            <div class="w-2/3 mx-auto">
-                <p class="mt-2 mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consectetur semper lectus, at consequat dui pulvinar in. Pellentesque non molestie ligula. Phasellus cursus, nulla sit amet aliquet mollis, diam sapien tincidunt velit, nec scelerisque libero sapien et diam. Mauris tempor ante eu suscipit rhoncus. Sed non dolor non ipsum congue pulvinar. Phasellus fringilla eros in ipsum tempor, dapibus malesuada ligula varius. Vivamus sed dolor nec risus finibus vestibulum. Curabitur efficitur quam tellus, ut rutrum risus consequat id.</p>
-                <p class="mt-2 mb-2">Suspendisse eget tempor erat, vitae eleifend velit. Suspendisse dui enim, aliquam sit amet aliquet a, faucibus eget ipsum. Ut rutrum pretium elit, eget aliquam tortor maximus sit amet. Nulla sollicitudin porttitor dolor a tempor. Pellentesque varius velit nec diam mollis, sit amet pharetra turpis pretium. Ut ac nunc sit amet sem molestie congue fermentum consectetur ante. Ut dictum nec odio vitae feugiat. Proin eu massa nec magna rhoncus laoreet. Morbi cursus vulputate nunc, a convallis libero facilisis at. Nulla metus est, accumsan eget tempor et, accumsan non nunc. In egestas ac quam vel laoreet.</p>
-                
-                <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/Black+Rifle+Coffee.jpg" alt="Sipping a great cup of coffee while contemplating the greater meaning of life..." />
-                
-                <p class="mt-2 mb-2">Morbi vitae interdum metus, eu semper nisi. Maecenas mattis non eros pellentesque imperdiet. Maecenas risus nisi, euismod sed nisi imperdiet, convallis feugiat nulla. Sed maximus varius molestie. Nam volutpat magna eu ipsum efficitur pellentesque. Nulla viverra ac elit egestas sollicitudin. Sed facilisis vulputate odio, eget malesuada ante. Pellentesque non metus mattis, molestie diam vitae, vehicula purus. Donec ullamcorper lectus id nunc suscipit venenatis. Nulla facilisi. Duis imperdiet tellus mauris, vel pellentesque mauris commodo id.</p>
-                <p class="mt-2 mb-2">Pellentesque eget augue hendrerit, aliquet urna in, euismod lorem. Aenean iaculis tellus vitae augue egestas pharetra. Sed feugiat justo ex, nec sagittis nibh hendrerit in. Cras fermentum felis vitae laoreet fermentum. Aliquam volutpat tempor commodo. Donec tincidunt purus fermentum aliquam blandit. Proin et bibendum dui. Duis dignissim, nibh sit amet porta facilisis, quam libero tincidunt justo, sit amet semper lorem magna quis elit. Nunc nec diam quam. Vivamus porta finibus urna, a suscipit dui iaculis sit amet. Etiam egestas felis in diam congue, quis aliquam justo auctor. Vestibulum vitae sem elit. Sed at justo a ex tempor porta. In tincidunt dui at nisi rutrum, ac pretium felis sagittis.</p>
-                <p class="mt-2 mb-2">Duis at sollicitudin erat. Mauris eu vehicula felis. Curabitur bibendum nunc dignissim justo tincidunt, id placerat nibh rutrum. Duis pellentesque dictum lacinia. Pellentesque est nisi, commodo ultrices aliquam sit amet, imperdiet eget dui. Nullam dapibus ipsum ac accumsan rhoncus. Ut ut pellentesque leo. Praesent neque felis, mattis eget lectus eget, sagittis vehicula eros. Sed dapibus fringilla nisl, sodales luctus elit egestas sed. Cras elit massa, aliquet vel lacinia ac, commodo sed ex. Sed eleifend nulla vel sagittis tristique. Nullam mollis justo nec enim tincidunt ornare. </p>  
-            </div>
-
+              <div class="bg-neutral-100 h-screen mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl"> 
+                <p>To keep things simple you should just checkout my vitae page <a href='https://isaac-tait.github.io' target="_blank" rel="noopener noreferrer" className='text-red-500 hover:text-slate-500 underline'>here</a>.</p>               
+                  <img class="w-8/12 rounded-lg shadow-lg mx-auto mt-10" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/Black+Rifle+Coffee.jpg" alt="Sipping a great cup of coffee while contemplating the greater meaning of life..." />
+              </div>
             <Footer />
-
         </div>
     )
 };

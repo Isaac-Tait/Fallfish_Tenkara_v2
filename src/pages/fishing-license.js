@@ -58,10 +58,10 @@ const License = ({ location }) => {
         )
     }
     return (
-        <div>
+        <div className='heropattern-topography-gray-400'>
             <Navigation />
             <header class="pr-2 md:w-2/3">{header}</header>
-            <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
+            <div class="bg-neutral-100 h-screen mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
               <p class="ml-2 mb-4">Obtaining a fishing license (aka hituri ken – 日釣 券 ) in Japan can be easy, as long as you know how to go about acquiring one.</p>
               <p class="ml-2 mb-4">First make sure the river is actually open for fishing. For more information seeing Keiryu Fishing Season.</p>
               <p class="ml-2 mb-4">Next you need to find the place to acquire your hituri ken. Sometimes they are sold at convenience stores other times you buy them from a co-op volunteers home.</p>

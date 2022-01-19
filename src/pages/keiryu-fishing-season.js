@@ -58,10 +58,10 @@ const Season = ({ location }) => {
         )
     }
     return (
-        <div>
+        <div className='heropattern-topography-gray-400'>
             <Navigation />
             <header class="pr-2 md:w-2/3">{header}</header>
-            <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
+            <div class="bg-neutral-100 h-screen mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
               <p class="ml-2 mb-4">Most Japanese keiryu and genryu (mountain streams) are closed (aka no fishing) from October 1st until the end of February. The closure coincide with spawning season and also help to protect the fisheries while there isn’t an abundant food supply. Occasionally certain regions closure schedule varies though – for example:</p>
               <p class="ml-2 mb-4">Some streams in the Tanzawa Mountains are open till October 15th.</p>
               <p class="ml-2 mb-4">Oshino does not open until March 15th.</p>

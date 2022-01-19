@@ -58,10 +58,10 @@ const Links = ({ location }) => {
         )
     }
     return (
-        <div>
+        <div className='heropattern-topography-gray-400'>
             <Navigation />
             <header class="pr-2 md:w-2/3">{header}</header>
-            <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl"> 
+            <div class="bg-neutral-100 h-screen mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl"> 
             <p class="ml-2 mb-4">A locals website with all sorts of info on fish and rivers within Japan</p>
             <p class="ml-2 mb-4">Toll Calculator for Drivers in Japan (Hint: it is all in Japanese so I suggest having Google Maps open in another tab so that you can compare)</p>
             <p class="ml-2 mb-4">Information on ETC Pass for foreigners Japan ETC Toll Roads Pass</p>

@@ -58,10 +58,10 @@ const Stores = ({ location }) => {
         )
     }
     return (
-        <div>
+        <div className='heropattern-topography-gray-400'>
             <Navigation />
             <header class="pr-2 md:w-2/3">{header}</header>
-              <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
+              <div class="bg-neutral-100 h-screen mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
                 <p class="ml-2 mb-4">Tenkara Fishing Stores</p>
                 <p class="ml-2 mb-4">As I visit various Tenkara Fishing Stores throughout Japan I will update this list.</p>
                 <p class="ml-2 mb-4">Yokosuka</p>

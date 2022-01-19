@@ -2,6 +2,9 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Link, graphql } from "gatsby"
 
+import Navigation from "../components/navigation"
+import Footer from "../components/footer.js"
+
 const Tags = ({ pageContext, data }) => {
   const { tag } = pageContext
   const { edges, totalCount } = data.allMarkdownRemark
@@ -10,22 +13,31 @@ const Tags = ({ pageContext, data }) => {
   } tagged with "${tag}"`
 
   return (
-    <div>
-      <h1>{tagHeader}</h1>
-      <ul>
-        {edges.map(({ node }) => {
-          const { slug } = node.fields
-          const { title } = node.frontmatter
-          return (
-            <li key={slug}>
-              <Link to={slug}>{title}</Link>
-            </li>
-          )
-        })}
-      </ul>
-      {/*This links to a page that does not yet exist. You'll come back to it!*/}
-      <Link to="/tags">All tags</Link>
-    </div>
+    <div className='heropattern-topography-gray-400'>
+      <Navigation />
+        <Link to="/" className='text-3xl text-red-500 hover:underline hover:text-slate-500'>
+          <p>Take me to the home page...</p>
+        </Link>
+      <div class="bg-neutral-100 h-screen mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
+        <h1 className='text-red-500 uppercase font-semibold'>{tagHeader}</h1>
+        <ul className='ml-4'>
+          {edges.map(({ node }) => {
+            const { slug } = node.fields
+            const { title } = node.frontmatter
+            return (
+              <li key={slug} className='underline hover:text-red-500'>
+                <Link to={slug}>{title}</Link>
+              </li>
+            )
+          })}
+        </ul>
+        
+        <div className='text-red-500 underline hover:text-slate-500'>
+          <Link to="/tags">Return to all tags</Link>
+        </div>
+      </div>
+    <Footer />
+  </div>
   )
 }
 
