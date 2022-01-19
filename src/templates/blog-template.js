@@ -18,7 +18,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       <Link to="/" class="uppercase font-bold text-red-500">Take me back to the Home Page</Link>
       <Seo
         title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
+        description={post.frontmatter.description}
       />
       
       <article>
@@ -77,7 +77,6 @@ export const pageQuery = graphql`
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {
       id
-      excerpt(pruneLength: 160)
       html
       frontmatter {
         title

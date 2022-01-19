@@ -33,7 +33,7 @@ module.exports = {
     title: `Fallfish Tenkara`,
     author: {
       name: `Isaac Tait`,
-      summary: `who now lives in San Diego but dreams of returning, one day, to Japan.`,
+      summary: `who now lives in New England but dreams of returning, one day, to Japan.`,
     },
     description: `Exploring Japan One River At A Time`,
     siteUrl: `https://fallfishtenkara.com`,

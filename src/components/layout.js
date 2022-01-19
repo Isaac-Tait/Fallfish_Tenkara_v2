@@ -66,7 +66,7 @@ const logos = withArtDirection(getImage(data.desktopLogo), [
         <div class="hidden md:block w-2/3 mx-auto">
           <Slider />
         </div>
-      <div class="bg-gray-200 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
+      <div class="bg-neutral-100 mb-4 w-full lg:w-2/3 mx-auto overflow-hidden rounded-lg shadow-xl">
         <main>{children}</main>
         <Pagination />
       </div>

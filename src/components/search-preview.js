@@ -7,12 +7,14 @@ import { Highlight } from "react-instantsearch-dom";
 const SearchPreview = ({ hit }) => {
     return (
         <div>
-            <Link to={hit.fields.slug}>
-                <Highlight hit={hit} attribute="frontmatter.title" tagName="mark" />
-            </Link>
+            <div className='font-semibold text-slate-600'>
+                <Link to={hit.fields.slug}>
+                    <Highlight hit={hit} attribute="frontmatter.title" tagName="mark" />
+                </Link>
+            </div>
 
-            <div class="">
-                <Highlight hit={hit} attribute="excerpt" tagName="mark" />
+            <div class='italic text-slate-400 ml-2 text-sm'>
+                <Highlight hit={hit} attribute="frontmatter.description" tagName="mark" />
             </div>
         </div>
     )

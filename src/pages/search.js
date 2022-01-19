@@ -28,13 +28,15 @@ class Search extends React.Component {
                     title="All Posts"
                     keywords={[`tenkara`,`japan`,`fly fishing`,`sawanobori`,]}
                 />
-                <div class="w-8/12 mx-auto">
+                <div class="max-w-6xl h-screen flex flex-col mx-auto overflow-y-scroll my-2">
                     <InstantSearch searchClient={searchClient} indexName="Fallfish_Tenkara_Blog">
-                        <div class="mt-12">
-                            <p>Enter your search query below:</p>
+                        <div class="flex justify-center content-center bg-orange-100">
+                            <p className='font-semibold'>Enter your search query below:</p>
                             <SearchBox />
                         </div>
-                        <Hits hitComponent={SearchPreview}/>
+                        <div className=''>
+                            <Hits hitComponent={SearchPreview}/>
+                        </div>
                     </InstantSearch>
                 </div>
             </Layout>
