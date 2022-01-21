@@ -5,7 +5,55 @@ const FrontPage = () => {
     return (
       <div class="px-4 py-16 mx-auto heropattern-bamboo-gray-400 sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-20">
         <div class="grid gap-5 lg:grid-cols-3 sm:max-w-sm sm:mx-auto lg:max-w-full">
-          <div class="bg-gray-200 overflow-hidden transition-shadow duration-300 rounded">
+          <div class="bg-gray-200 overflow-hidden rounded text-gray-700 hover:text-red-500">
+            <a href="/fishing-in-hokkaido" aria-label="Article">
+              <img
+                src="https://fallfish-tenkara-images.s3.us-west-1.amazonaws.com/FfT+-+Hokkaido_Fly_Fishing/hokkaido-fly+fishing-tenkara-adventure-bears-japan-epic+colors.jpg"
+                class="object-cover w-full h-64 rounded"
+                alt="epic fall colors"
+              />
+            </a>
+            <div class="py-5">
+              <p class="mb-2 ml-2 text-xs font-semibold uppercase">
+                21 January 2022
+              </p>
+              <a
+                href="/fishing-in-hokkaido"
+                aria-label="Article"
+                class="inline-block mb-3"
+              >
+                <p class="ml-4 text-2xl font-bold leading-5">Fishing in Hokkaido</p>
+              </a>
+              <p class="italic text-sm mx-4 mb-4">
+              We brave the bears and find a fishing paradise in the heart of Japan's second largest island...
+              </p>
+            </div>
+          </div>
+          
+          <div class="bg-gray-200 overflow-hidden rounded text-gray-700 hover:text-red-500">
+            <a href="/big-fish-tochigi" aria-label="Article">
+              <img
+                src="https://fallfish-tenkara-images.s3.us-west-1.amazonaws.com/FfT+-+Big_Fish_Tochigi_Houki/tochigi-tenkara-fly+fishing-houki-big+fish-clouds.jpg"
+                class="object-cover w-full h-64 rounded"
+                alt="clouds over Tochigi"
+              />
+            </a>
+            <div class="py-5">
+              <p class="mb-2 ml-2 text-xs font-semibold uppercase">
+                19 January 2022
+              </p>
+              <a
+                href="/big-fish-tochigi"
+                aria-label="Article"
+                class="inline-block mb-3"
+              >
+                <p class="ml-4 text-2xl font-bold leading-5">Finding big fish...</p>
+              </a>
+              <p class="italic text-sm mx-4 mb-4">After getting nearly skunked our hopes for some fish action were suddenly piqued upon laying eyes on this glorious river...</p>
+            </div>
+          </div>
+          
+          <div class="bg-gray-200 overflow-hidden rounded text-gray-700 hover:text-red-500">
             <a href="/kamoshika-backyard" aria-label="Article">
               <img
                 src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Shems+Jud+/tanzawa+mountains-japan-tenkara-fishing-business+trip-exploring-guest+blog+post-kamoshika.JPG"
@@ -14,74 +62,23 @@ const FrontPage = () => {
               />
             </a>
             <div class="py-5">
-              <p class="mb-2 ml-2 text-xs font-semibold text-gray-600 uppercase">
+              <p class="mb-2 ml-2 text-xs font-semibold uppercase">
                 04 April 2019
               </p>
               <a
                 href="/kamoshika-backyard"
                 aria-label="Article"
-                class="inline-block mb-3 text-black transition-colors duration-200 hover:text-deep-purple-accent-700"
+                class="inline-block mb-3"
               >
                 <p class="ml-4 text-2xl font-bold leading-5">Kamoshika's Backyard</p>
               </a>
-              <p class="italic text-sm mx-4 mb-4 text-gray-700">
+              <p class="italic text-sm mx-4 mb-4">
               I have been enchanted with Japanese trout and char since a stint teaching English 
               in Japan some twenty years ago...
               </p>
             </div>
-          </div>
-          
-          
-          <div class="bg-gray-200 overflow-hidden transition-shadow duration-300 rounded">
-            <a href="/mountain-huts" aria-label="Article">
-              <img
-                src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Mountain+Huts/Japan-Mountain-Huts-Tenkara-Exploring-Katanokoya-Hut.jpg"
-                class="object-cover w-full h-64 rounded"
-                alt="mountain huts in Japan"
-              />
-            </a>
-            <div class="py-5">
-              <p class="mb-2 ml-2 text-xs font-semibold text-gray-600 uppercase">
-                21 May 2018
-              </p>
-              <a
-                href="/mountain-huts"
-                aria-label="Article"
-                class="inline-block mb-3 text-black transition-colors duration-200 hover:text-deep-purple-accent-700"
-              >
-                <p class="ml-4 text-2xl font-bold leading-5">Mountain Huts</p>
-              </a>
-              <p class="italic text-sm mx-4 mb-4 text-gray-700">The mountain hut system in Japan is not only extensive but also many can be quite luxurious...</p>
-            </div>
-          </div>
-          
-          
-          <div class="bg-gray-200 overflow-hidden transition-shadow duration-300 rounded">
-            <a href="/life" aria-label="Article">
-              <img
-                src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Life/Kadosan-friend-adventurer-sensei-badass.JPG"
-                class="object-cover w-full h-64 rounded"
-                alt="My tenkara sensei and good friend Kado-san and me."
-              />
-            </a>
-            <div class="py-5">
-              <p class="mb-2 ml-2 text-xs font-semibold text-gray-600 uppercase">
-                16 April 2018
-              </p>
-              <a
-                href="/life"
-                aria-label="Article"
-                class="inline-block mb-3 text-black transition-colors duration-200 hover:text-deep-purple-accent-700"
-              >
-                <p class="ml-4 text-2xl font-bold leading-5">Life</p>
-              </a>
-              <p class="italic text-sm mx-4 mb-4 text-gray-700">
-                The old adage: "Good things must always come to an end" rings especially true for me as I prepare to leave Japan...
-              </p>
-            </div>
-          </div>
+          </div>         
         </div>
-
 
         <div class="flex flex-wrap w-full justify-between">
             <Link 

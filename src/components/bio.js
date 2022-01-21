@@ -32,7 +32,7 @@ const Bio = () => {
         <GatsbyImage image={data.avatar.childImageSharp.gatsbyImageData} alt={author.name}/>
       </div>
       
-      <p>Written by <span class="font-bold">{author.name}</span> {author.summary} You should follow him on&nbsp;<a href={`https://twitter.com/${social.twitter}`} class="text-red-500 hover:bg-red-500 hover:text-white">Twitter</a>.</p>
+      <p>Fallfish Tenkara is the brainchild of <span class="font-bold">{author.name}</span> {author.summary} You should follow him on&nbsp;<a href={`https://twitter.com/${social.twitter}`} class="text-red-500 hover:bg-red-500 hover:text-white">Twitter</a>.</p>
     </div>
   )
 }

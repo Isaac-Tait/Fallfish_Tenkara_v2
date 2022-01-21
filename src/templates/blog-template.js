@@ -6,7 +6,6 @@ import Bio from "../components/bio"
 import Navigation from "../components/navigation"
 import Seo from "../components/seo"
 import Footer from "../components/footer"
-import Comments from "../components/comments-queue"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -31,11 +30,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
         </div>
       </article>
-
-      <Comments /> 
-
-      <div>
-            <p class="font-semibold flex w-1/2 justify-center mx-auto">Blog Navigation</p>
+      
+      <div class='mt-4'>
+          <p class="font-semibold flex w-1/2 bg-red-500 justify-center mx-auto text-white rounded-md">Blog Navigation</p>
             <nav class="text-xs md:text-base flex w-1/2 justify-between mx-auto">
 
             <div>
