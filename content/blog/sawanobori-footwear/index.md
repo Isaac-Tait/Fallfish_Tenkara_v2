@@ -55,7 +55,7 @@ tags: [Gear Review]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Sour+Boots/Sour+Shoes-Montbell-+Sawanobori-heel.JPG" alt="Heel" />
 
-<p class="mt-2 mb-2">Kado-san said I could do lite hiking in the Sour Shoes. <del>I would not want to go backpacking in them</del> (in September I did go <a href="https://www.fallfishtenkara.com/backcountry-tenkara/ target="_blank" rel="noopener noreferrer noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">backpacking</a>, for about 10km carrying a 16kg pack, wearing these very shoes. I survived.) but on our trip to Niigata he wore his sawakutsu felt soled boots over about 6.5km (~4 miles) of hiking and scrambling and about 3km (~2 miles) of wet wading. The sawakutsu boots offer a bit more support and are not as soft as the Sour Shoe though.</p>
+<p class="mt-2 mb-2">Kado-san said I could do lite hiking in the Sour Shoes. <del>I would not want to go backpacking in them</del> (in September I did go <a href="https://www.fallfishtenkara.com/backcountry-tenkara/" target="_blank" rel="noopener noreferrer noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">backpacking</a>, for about 10km carrying a 16kg pack, wearing these very shoes. I survived.) but on our trip to Niigata he wore his sawakutsu felt soled boots over about 6.5km (~4 miles) of hiking and scrambling and about 3km (~2 miles) of wet wading. The sawakutsu boots offer a bit more support and are not as soft as the Sour Shoe though.</p>
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Sour+Boots/Sour+Shoes-Montbell-+Sawanobori-neoprene+leg+guards.JPG" alt="Neoprene leg guards" />
 
