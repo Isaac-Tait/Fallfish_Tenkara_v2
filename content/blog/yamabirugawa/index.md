@@ -11,7 +11,7 @@ tags: [Kanagawa Prefecture]
 
 <p class="mb-2 mt-2">After thoroughly scoping the area on Google Maps I decided to see what the fishing was like. First I had to navigate a very narrow winding mountain highway. At the trailhead as I was changing out of my hiking boots into my bike riding shoes I noticed I had gotten some mud on my hand. When I tried to wipe it off it would not come off. Upon closer inspection I realized I had a land leech stuck to my hand! This was my first experience with leeches and I must say it was pretty gross. There are now two things I hate in this world: spiders and leeches. After plucking the leech off I went down to the creek to rinse my boots off and came across a giant Japanese Mountain Leech. This bad boy does not suck blood, rather it eats earth worms and snails... There are some interesting videos on YouTube - Google at your own peril though... The Japanese Mountain Leech is referred to as the <em>yamabiru</em> in Japan. The literal translation is Mountain Beer - seems a little odd to me. I certainly felt like drinking a beer after being bit by one so maybe that is how they got their name... After dealing with the leeches I transitioned to my mountain bike for a three mile ride along a logging/fire road to the river.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-bridge-a.JPG" alt="A bridge" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-bridge-a.JPG" alt="A bridge" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-kanji-a.JPG" alt="Kanji" />
 
@@ -21,7 +21,7 @@ tags: [Kanagawa Prefecture]
 
 <p class="mb-2 mt-2">I will tell you though that Yamame are adept at getting off your line. I have read up on the Yamame on a few Japanese blogs and apparently they have perfected the technique of log rolling in the water. This is apparently a successful maneuver for getting off the hook. The first fish was fairly big and when he had loaded my rod to a nice bend he popped off the hook and my fly went flying into a distant tree branch where it will be for some time to come. With my lucky fly gone I tied on another terrestrial, only slightly bigger. I thought the larger size would detract from its effectiveness, but the fish loved it even more! I tried a new technique I had read about, where you high stick your rod above the water and in small quick movements you lift the fly off the surface of the water and quickly drop it back onto the surface of the water. This mimics a bug, like a mayfly, landing on the water surface to lay eggs before flying off to avoid becoming a tasty snack for a hungry trout. My fly got slammed by at least three trout with this technique including a very large one. They all missed though and after awhile the gig was up and the fish stopped going for the terrestrial fly.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-trout-keiryu-a.JPG" alt="Trout" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-trout-keiryu-a.JPG" alt="Trout" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-weir-yamame.jpg" alt="Weir" />
 
@@ -31,7 +31,7 @@ tags: [Kanagawa Prefecture]
 
 <p class="mb-2 mt-2">After down climbing the ladder on the side of the weir I continued downstream, fishing the small pools and spotting many more trout. After descending further downstream I came upon yet another weir, this one was bigger than the last and the ladder deposited you on the side of a cliff above a very deep pool. It looked pretty technical and time consuming and with three hours of hiking, biking, and driving ahead of me to get home I decided it would be prudent to head home.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-wier-mountains.jpg" alt="Mountains" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-wier-mountains.jpg" alt="Mountains" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Leech+Creek/yamabiru-creek-tenkara-japan-tokyo-wisteria-a.JPG" alt="Wisteria" />
 

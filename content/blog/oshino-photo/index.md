@@ -7,7 +7,7 @@ tags: [Yamanashi Prefecture]
 <div class="text-lg m-2">
 <p class="mb-2">Last week I headed back to Oshino Creek. I did not have a chance to fish the lower sections the first time I went. The lower sections features more swift water than the upper section and I was eager to check it out. For the most part Oshino is a slow and deep river but the sections of "white-water" do offer some great fishing.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Rivers-Edge_Flyfishing-Shop_Guide-Service.jpg" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Rivers-Edge_Flyfishing-Shop_Guide-Service.jpg" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Snake_Oshino-Creek_Mount_Fuji.jpg" />
 </div>
@@ -18,7 +18,7 @@ tags: [Yamanashi Prefecture]
 
 <p class="">There were more anglers on the river than last time but they tended to congregate around the deeper pools. It was still possible to find solitude surrounded by budding trees and blooming flowers. With the warmer weather comes more wildlife encounters. I almost step on the first snake I have seen in Japan. Glad he was not poisonous!</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Brook-Trout.jpg" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Brook-Trout.jpg" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Incoming-Storm_Oshino-Creek.JPG" />
 

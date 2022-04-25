@@ -11,7 +11,6 @@ tags: [Kanagawa Prefecture]
 
 <p class="mt-2 mb-2">I set off up the valley following a babbling brook before coming to an intersection - left up a steep staircase or right across a very narrow bridge. I chose the bridge hoping it wouldn't break under my weight. Safely on the other side I continued up the trail passing several caves and small statues. I continued on up the valley before coming to a well traveled trail. I opted to go left and after a few hundred meters I came across a Buddhist temple called the Zuisen-ji Temple.</p>
 
-<img class="aligncenter wp-image-2546 size-large" src="https://www.fallfishtenkara.com/wp-content/uploads/2015/12/Zuisenji-temple-kamakura-alps-zen-japan-751x1024.jpg" alt="Zuisenji temple-kamakura alps-zen-japan" width="751" height="1024" />
 <p class="mt-2 mb-2 font-semibold">The Muromachi Period (also known as the Ashikaga Period) was a time of great cultural growth in Japan, particularly under the influence of Zen Buddhism and lasted nearly 240 years. The unique Japanese arts of the tea ceremony, flower arranging, and <a href="https://www.britannica.com/art/Noh-theatre" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">nō drama</a> were developed during this <a href="https://www.britannica.com/event/Muromachi-period)" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">time period</a>.</p>
 
 <p class="mt-2 mb-2 font-semibold">The <a href="https://www.kamakura-zuisenji.or.jp" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Zuisen-ji Temple</a> was the family temple of the head of the representatives of [the] Kanto region of the Muromachi Shogunate. Consequently, it is one of the 10 most important temples in the Kanto region, second only to Kamakura’s five principle temples of the Zen sect…</p>
@@ -20,22 +19,13 @@ tags: [Kanagawa Prefecture]
 
 <p class="mt-2 mb-2">After thoroughly exploring the Temple I pressed on, my objective was Mount Ohira the highest point in the city of Yokohama.</p>
 
-<img class="size-large wp-image-2547 aligncenter" src="https://www.fallfishtenkara.com/wp-content/uploads/2015/12/trailside-shrine-kamakura-alps-zen-japan-1024x768.jpg" alt="trailside shrine-kamakura alps-zen-japan" width="940" height="705" />
-
 <p class="mt-2 mb-2">After exploring several side trails I finally made it to the summit and was greeted by two huts serving all sorts of Japanese food, beer, and sake!</p>
-
-
-
-<img class="wp-image-2552 size-large" src="https://www.fallfishtenkara.com/wp-content/uploads/2015/12/panorama-kamakura-alps-zen-japan-1024x459.jpg" alt="panorama-kamakura alps-zen-japan" width="940" height="421" />
-Lunch with a view of Kamakura &amp; Sagami Bay!</p>
 
 <p class="mt-2 mb-2">After soaking in the sun on the summit I laced up my boots and began making my way back to the car. On the journey back I noticed a faint trail branching off the main path that plunged into a dense thicket of bamboo. I was curious so I put on my <a href="https://seattlebackpackersmagazine.com/turtleskin-snake-gaiter/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">snake gaiters</a> (in case I came across any Mamushi Pit Vipers) and set off. Part of the way down the trail I came across a recently eaten dove (or maybe it was a pigeon) the feathers were still in great condition so I picked up a few for fly tying.</p>
 
 
-<p class="mt-2 mb-2 font-semibold">^Before &amp; After^</p>
+<p class="mt-2 mb-2">
 As I pressed on the trail dramatically descended into an unnamed valley below a cemetery. Nestled in the valley was a brook, that was hardly more than a trickle. As I followed it downstream though it began to grow, and eventually I came across a small water slide, perfect for a <i><a href="https://www.fallfishtenkara.com/mizusawa-river-tokyo/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Nihon Kawanezumi</a>, </i>that the brook had worn into the soft volcanic ash bedrock.</p>
-
-<img class="size-large wp-image-2556 aligncenter" src="https://www.fallfishtenkara.com/wp-content/uploads/2015/12/babbling-brook-kamakura-alps-zen-japan-768x1024.jpg" alt="babbling brook-kamakura alps-zen-japan" width="768" height="1024" />
 
 <p class="mt-2 mb-2">Below the water slide was a massive plunge pool with Japanese Maples towering above wearing the finest orange and red fall coats. The birds were singing and the sun was setting, casting a melodic glow through the cedars that stretched into the deep blue of the sky. I did not want to leave, the beauty was indescribable. So I sat by the pool listening to the <a href="https://seattlebackpackersmagazine.com/cherish-the-silence-of-nature/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">silence of nature</a> and reflected on where the day's travels had taken me and what I had seen. Everyday in Japan is special but occasionally a day comes along that just blows my mind, when I stop and think.</p>
 <p class="mt-2 mb-2">"Can this really be happening? Can a place such as this really exist on this planet?"</p>

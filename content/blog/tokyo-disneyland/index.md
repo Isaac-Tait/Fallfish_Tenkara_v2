@@ -7,7 +7,7 @@ tags: [Random]
 <div class="text-lg mt-2">
 <p class="mb-2">Since moving to Japan I had heard a lot about how much fun Tokyo Disneyland and DisneySea were. So a week or two back my wife and I visited both parks. The hype was well founded. We started with Tokyo Disneyland on a rainy Monday - Typhoon 19 was making its way towards Japan but thankfully the rain held off till the very end of the day. I was excited to see that Tokyo Disneyland still had the Swiss Family Robinson Tree House and The Grand Circuit Raceway, which were two of my favorite attractions when I was a kid at the Disneyland in Anaheim California.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disney+sea-journey+to+the+center+of+the+earth-volcano-mysterious+island.JPG" alt="Mysterious island" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disney+sea-journey+to+the+center+of+the+earth-volcano-mysterious+island.JPG" alt="Mysterious island" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disneyland-monorail.jpg" alt="Two tourists embarking on a journey to the Happiest Place in Japan" />
 
@@ -17,7 +17,7 @@ tags: [Random]
 
 <p class="mt-2 mb-2">Later that week we headed over to Tokyo DisneySea. If you find yourself in Tokyo with a day to spare I highly recommend visiting Tokyo DisneySea. This park is unbelievably cool and it is readily apparent that the <a href="https://en.wikipedia.org/wiki/Tokyo_DisneySea#Awards" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">¥335,000,000,000</a> (billion) it cost to build the park was money well spent.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disneyland-dinner-restaurant+hokusai.JPG" alt="Lunch break" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disneyland-dinner-restaurant+hokusai.JPG" alt="Lunch break" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disneyland-castle-swiss+family+robinson+tree+house.JPG" alt="View of the castle from the treehouse" />
 
@@ -27,7 +27,7 @@ tags: [Random]
 
 <p class="mt-2 mb-2">And if you find yourself near Tokyo Dome you have to pay the ¥1,050 to ride Thunder Dolphin, which is <a href="https://en.wikipedia.org/wiki/Thunder_Dolphin" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">the 10th tallest continuous circuit roller coaster in the world</a>. I am not much of a roller coaster guy but I absolutely loved this ride, especially that first drop where you go from 0 to 130kph in a second or so. Here is a video of the ride (it is not mine).</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disney+sea-journey+to+the+center+of+the+earth-volcano-mysterious+island-sunset.JPG" alt="Sunset" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disney+sea-journey+to+the+center+of+the+earth-volcano-mysterious+island-sunset.JPG" alt="Sunset" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Tokyo+Disney/tokyo-japan-disneyland-world+bazaar.JPG" alt="Bazaar entrance" />
 

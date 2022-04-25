@@ -21,7 +21,7 @@ tags: [Random]
 
 <p class="mb-2 mt-2">If you do rent a car it would be very helpful to have an ETC Pass, this <a href="https://www2.tocoo.jp/en/contents/info/etc" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">site</a> has a great breakdown of the ETC Pass as well as driving in Japan.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/japanese+road+signs-1.jpg" alt="Road signs" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/japanese+road+signs-1.jpg" alt="Road signs" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/japanese+road+signs.jpg" alt="Road signs" />
 
@@ -29,7 +29,7 @@ tags: [Random]
 
 <p class="mb-2 mt-2">Once you have made it through customs and picked up your luggage you will have the option to <a href="https://www.narita-airport.jp/en/guide/service/list/svc_19.html" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">rent cell phones</a>. There are many options to choose from. The two largest cell phone providers in Japan are SoftBank and AU. I have been told that SoftBank has the best coverage and <a href="https://www.softbank-rental.jp/e/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">SoftBank</a> does offers many rental options to stay connected.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/ika+sushi-visiting+japan.JPG" alt="Sushi" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/ika+sushi-visiting+japan.JPG" alt="Sushi" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/japanese+home-blue+sky.JPG" alt="Blue sky with home in the foreground" />
 
@@ -62,7 +62,7 @@ tags: [Random]
 <li>It is considered impolite to not finish all the food that you order or are given. When my wife and I eat in town we often bring a small container, to put food in that we cannot eat because we are either too full or we cannot stomach it. .</li>
 </div>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/rabit+cafe%CC%81-visiting+japan.JPG" alt="Rabbit cafe" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/rabit+cafe%CC%81-visiting+japan.JPG" alt="Rabbit cafe" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Visiting+Japan/visiting+japan-hakuba-snow.JPG" alt="Hakuba Snow" />
 

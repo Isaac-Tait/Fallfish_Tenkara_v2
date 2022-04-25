@@ -12,9 +12,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const { previous, next } = pageContext
 
   return (
-    <div location={location}>
+    <div location={location} class="heropattern-topography-gray-400">
       <Navigation />
-      <Link to="/" class="uppercase font-bold text-red-500">Take me back to the Home Page</Link>
+      <Link to="/" class="uppercase font-bold text-red-500 pl-2">Take me back to the Home Page</Link>
       <Seo
         title={post.frontmatter.title}
         description={post.frontmatter.description}
@@ -26,9 +26,12 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             <p class="pl-2 text-gray-300">{post.frontmatter.date}</p>
         </header>
           
-        <div class="px-2 md:w-2/3 md:mx-auto">
-          <section dangerouslySetInnerHTML={{ __html: post.html }} />
+        <div class="w-2/3 mx-auto bg-gray-100 rounded-xl">
+          <div class="px-2 md:w-2/3 md:mx-auto">
+            <section dangerouslySetInnerHTML={{ __html: post.html }} />
+          </div>
         </div>
+        
       </article>
       
       <div class='mt-4'>

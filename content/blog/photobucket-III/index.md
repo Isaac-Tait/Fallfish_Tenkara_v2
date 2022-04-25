@@ -1,4 +1,4 @@
----
+ mb-2---
 title: Japan - Photobucket III (& random musings)
 description: Along with a random collage of photos from my adventures throughout Japan - this blog post includes some even more random musings...
 date: 2015-12-07T03:13:00+02:00
@@ -22,7 +22,7 @@ tags: [Random]
 
 <p class="mt-2 mb-2"><a href="https://www.fallfishtenkara.com/japanese-cuisine/" target="_blank" rel="noopener noreferrer"  class="text-red-500 hover:bg-red-500 hover:text-white font-semibold">Cuisine</a></p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+III/japan+photobucket-okinawa+grapes-green+caviar-Caulerpa+lentillifera-sashimi.JPG" alt="Japanese sashimi" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+III/japan+photobucket-okinawa+grapes-green+caviar-Caulerpa+lentillifera-sashimi.JPG" alt="Japanese sashimi" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+III/japan+photobucket-tokyo-ginza-japanese+curry.JPG" alt="Japanese curry" />
 
@@ -30,7 +30,7 @@ tags: [Random]
 
 <p class="mt-2 mb-2 font-semibold"><a href="https://taiken.co/single/buddha-statue-and-rock-art-of-takatori-yama" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Temples</a> and Shrines</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+III/japan+photobucket-shrine-aokigahara-mount+fuji.JPG" alt="Temple near Mt. Fuji" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+III/japan+photobucket-shrine-aokigahara-mount+fuji.JPG" alt="Temple near Mt. Fuji" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Photobucket+III/japan+photobucket-daizenji+temple.JPG" alt="" />
 

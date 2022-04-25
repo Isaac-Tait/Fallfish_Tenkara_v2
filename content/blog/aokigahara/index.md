@@ -11,7 +11,7 @@ tags: [Yamanashi Prefecture]
 
 <p class="mt-2 mb-2">The 'Sea of Trees' (another of its common names) is also the site of numerous caves, or lava tubes. While they are fun to explore you are now required to have a permit to enter them. One of the more popular caves used to have a stalagmite that resembled a certain male appendage. I use the word "used to" because a local TV crew thought it would funny to deface and remove the stalagmite. Presently if you are caught entering or exiting the lava tubes without a permit it will result in a stiff fine - consider yourself warned. For more info on the area as well as permit/guide info check out <a href="https://web-japan.org/niponica/niponica13/en/feature/feature04.html" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">this site</a>.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Suicide+Forest/aokigahara-suicide+forest-sea+of+trees-jukai-mount+fuji-moss.jpeg" alt="Beautiful moss" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Suicide+Forest/aokigahara-suicide+forest-sea+of+trees-jukai-mount+fuji-moss.jpeg" alt="Beautiful moss" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Suicide+Forest/aokigahara-suicide+forest-sea+of+trees-jukai-mount+fuji-mushroom-kinoko.JPG" alt="a huge mushroom" />
 

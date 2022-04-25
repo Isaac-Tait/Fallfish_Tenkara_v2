@@ -9,7 +9,7 @@ tags: [Random]
 
 <p class="mb-2 mt-2">99% of Tenkara anglers can get by with one Tenkara rod but only about 1% can get by with one fly. While I have one favorite rod, I own three. However, when it comes to flies I have a lot. I love collecting flies - the only thing more impressive than my fly collection is my footwear or backpack collection.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/hand+tied-iwana-kebari-tenkara-chicken+feather.JPG" alt="Kado-san's kebari - gold and red" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/hand+tied-iwana-kebari-tenkara-chicken+feather.JPG" alt="Kado-san's kebari - gold and red" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/hand+tied-iwana-kebari-tenkara.JPG" alt="Green and red kebari - eyeless" />
 
@@ -21,15 +21,15 @@ tags: [Random]
 href="https://www.fallfishtenkara.com/uratanzawa/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">Uratanzawa</a>. As the season changes they update the flies that they sell. So if you're striking out stop by the shack and pick up a few of their recommended flies. The prices are very reasonable (especially by Japanese standards). These flies turned a six hour day with only two bites into a success when I brought two beautiful Rainbows to hand within a few minutes of each other. They worked especially well for the <a 
 href="https://www.fallfishtenkara.com/plum-rain/" target="_blank" rel="noopener noreferrer" class="text-red-500 hover:bg-red-500 hover:text-white">glacial runoff looking waters</a> we experienced after the most recent typhoon.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/ultra+tiny+fly-tenkara-fly+fishing-fishing-closeup.JPG" alt="A tiny fly as big as FDR's ear (on a US Dime)" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/ultra+tiny+fly-tenkara-fly+fishing-fishing-closeup.JPG" alt="A tiny fly as big as FDR's ear (on a US Dime)" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/ultra+tiny+fly-tenkara-fly+fishing-fishing.JPG" alt="I want to shake the person's hand who tied this extraordinarily tiny fly" />
 
 <p class="mb-2 mt-2">I have seen several fly anglers using this ultra tiny fly. I found a box of three on the bank of a river earlier this spring. After trying to locate the owner, with no success, I tied one on. 7x tippet barely fits in the hook eye but once I got it tied on it was very fun to fish with. I found that they worked better in very sunny conditions. However, without the ability to strip strike when setting the hook these flies are very challenging to Tenkara fly fish with. Still I had some success with these ultra-tiny flies but do expect to miss a lot of sets, especially if you are targeting Yamame.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/Meboso-Kanazawa-Meboso+Hachirobei+Company-tenkara-flies-samurai.JPG" alt="Exquisite flies made with gold" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/Meboso-Kanazawa-Meboso+Hachirobei+Company-tenkara-flies-samurai.JPG" alt="Exquisite flies made with gold" />
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/Meboso-Kanazawa-Meboso+Hachirobei+Company-tenkara-flies-packaging.JPG" alt="Even the packaging is lovely..." />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/Meboso-Kanazawa-Meboso+Hachirobei+Company-tenkara-flies-packaging.JPG" alt="Even the packaging is lovely..." />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Flies/Meboso-Kanazawa-Meboso+Hachirobei+Company-tenkara-flies-art.JPG" alt="I believe these flies are tied specifically to target Ayu" />
 

@@ -15,7 +15,7 @@ tags: [Yamanashi Prefecture]
 
 <p class="mt-2 mb-2">The drive to Oshino is fairly quick because you take toll roads almost all the way there. The tolls are not too expensive either - round trip was about 4400 yen. When we arrived in Oshino it was apparent that old man winter was still hanging around. There were patches of snow dotting the farm fields, and the trees and grass were still sporting their winter coloring.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Mount-Fuji_Japan_Flyfishing_Tenkara_Oshino-Creek.JPG" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Mount-Fuji_Japan_Flyfishing_Tenkara_Oshino-Creek.JPG" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Mount-Fuji_Oshino-Creek_Tenkara.JPG" />
 
@@ -25,7 +25,7 @@ tags: [Yamanashi Prefecture]
 
 <p class="mt-2 mb-2">We wandered down the path admiring the multitude of fish in the stream. There were Amago, Iwana, Rainbow and Brook Trout. They were staying pretty deep due to the cold water and wintery conditions. So, I tied on a bead head midge and caught a beautiful rainbow within a few minutes. It was a great start to what would turn out to be a wonderful day.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Oshino_Creek_Japan_Tenkara.JPG" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Oshino_Creek_Japan_Tenkara.JPG" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/S/Placid-Pool_Japan_Oshino-Creek.JPG" />
 
@@ -39,7 +39,7 @@ tags: [Yamanashi Prefecture]
 
 <p class="mt-2 mb-2">Around noon the clouds burned off and the sun came out. But only for a little while. Within an hour it was cloudy again and it began to drizzle. As the day progressed the drizzle turned to rain which then turned into quite the downpour.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Rainbow-Trout_Tenkara_Oshino-Creek.JPG" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Rainbow-Trout_Tenkara_Oshino-Creek.JPG" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Oshino+Creek/C/Rainbow-Trout_Tenkara_Oshino-Creek_Japan.JPG" />
 
