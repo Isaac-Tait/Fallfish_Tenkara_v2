@@ -9,13 +9,13 @@ tags: [Tochigi Prefecture]
 
 <p class="mt-2 mb-2">Nikko has a little something for everyone; there are shrines, Japanese culture in spades, amazing food, temples, festivals, and to round it all out breathtaking natural beauty. When you tire of the crowds the mountains around Nikko offer respite with stunning waterfalls, lakes, moors, cliffs, and of course rivers.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-bridge.JPG" alt="Bridge in the heart of Nikko" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-bridge.JPG" alt="Bridge in the heart of Nikko" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-brook_trout.JPG" alt="Horsetail cascades" />
 
 <p class="mt-2 mb-2">One of the most beautiful temples I have seen in Japan (and I have seen A LOT) is located in Nikko. The Nikkō Tōshō-gū is absolutely marvelous, even if it is insanely crowded (like it was when I visited).</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-clouds_over_lake.JPG" alt="Cloudy day" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-clouds_over_lake.JPG" alt="Cloudy day" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-crowds_3.JPG" alt="Ahh the days before COVID-19" />
 
@@ -29,13 +29,13 @@ tags: [Tochigi Prefecture]
 
 <p class="mt-2 mb-2">Just before the Hell River (地獄川) flows into Lake Chūzenji it plunges down a series of cascades known as Ryuzu Falls. It is quite beautiful. It is popular to visit during the spring and fall when the colors of the flora accentuates the white water of cascade/waterfall.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-lily-flower.JPG" alt="Lily flower" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-lily-flower.JPG" alt="Lily flower" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-keiryu.JPG" alt="Mountain stream" />
 
 <p class="mt-2 mb-2">Above Lake Chūzenji lies the Senjogahara (戦場ケ原) which is a 400 hectares moor that was formed by the god of the mountain (most likely Mount Nantai - a nearby long dormant volcano) when he battled the bog at this location... I guess the bog won because it's still an active wetland. The area is rife with wildflowers, stonechat (ノビタキ), deer, and the occasional bear too!</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-gorge.JPG" alt="The river flowing out of the highlands towards Nikko" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-gorge.JPG" alt="The river flowing out of the highlands towards Nikko" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-panorama.JPG" alt="Lake panorama" />
 
@@ -45,7 +45,7 @@ tags: [Tochigi Prefecture]
 
 <p class="mt-2 mb-2">Lake Yuno is stocked with Brook Trout, Brown Trout, and <a href="https://www.fallfishtenkara.com/grayling/" target="_blank" rel="noreferrer noopener" class="text-red-500 hover:bg-red-500 hover:text-white">Grayling</a> (I had no idea that Grayling were stocked in Japan)! The Yukawa (湯川) below Lake Yuno is one of the premier Brook Trout fisheries in Japan. Way back in 1902 25,000 Brook Trout eggs were imported from Colorado and transplanted here. The river is also unique to Japan in that nearly the entire length of the river is catch and release. Consequently, the Brook Trout that you can catch in this river have been here for over 110 years! More info <a href="https://www.geocities.jp/japhighlander1959/nikkouyukawa.htm" target="_blank" rel="noreferrer noopener" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-shrine.JPG" alt="Another shot of the shrine and crowds" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto mb-2" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-shrine.JPG" alt="Another shot of the shrine and crowds" />
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko/nikko-tochigi_prefecture-toshogu-lake_chuzenji-ryuzu_falls-mount_nantai-shin_kyo-moor-meadow.JPG" alt="Moor/meadow" />
 

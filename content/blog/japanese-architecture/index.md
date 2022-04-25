@@ -15,7 +15,8 @@ tags: [Random]
 <p class="mt-2 mb-2 font-semibold">A compilation of old and new.</p>
 
 <p class="mt-2 mb-2">There are many abandoned home throughout Japan such as the home on the left. Yet they look as if someone could move back in tomorrow. Much respect is shown for personal property which I find very refreshing. Then a kilometer or two down the street from this abandoned home there was this <p class="font-semibold">very</p> unique home that looked like a bunker. The dichotomy was striking...</p>
-<img class="size-large wp-image-2573 aligncenter" src="https://www.fallfishtenkara.com/wp-content/uploads/2016/01/architecture-japan-hayama-fall-colors-in-winter-1024x768.jpg" alt="architecture-japan-hayama-fall colors in winter" width="940" height="705" />
+
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3.us-west-1.amazonaws.com/FfT+-+Japanese+Architecture/architecture-japan-hayama-vines.JPG" alt="vines" />
 
 <p class="mt-2 mb-2">This home too appeared to have no current inhabitants yet was apparently well cared for.</p>
 
@@ -24,16 +25,16 @@ tags: [Random]
 
 <p class="mt-2 mb-2">Japan's harsh climate speeds up the decomposition process yet the importance of culture and religion is ever present. In the bottom right photo you can see a Torii Gate - it lead to a small neighborhood shrine pictured below. The shrine is obviously well loved and taken care of, yet is surrounded by the evidence of urban decay - buildings slowly sliding off the hillside into the river below.</p>
 
-<img class="size-large wp-image-2582 aligncenter" src="https://www.fallfishtenkara.com/wp-content/uploads/2016/01/architecture-japan-hayama-neighborhood-shrine-768x1024.jpg" alt="architecture-japan-hayama-neighborhood shrine" width="768" height="1024" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3.us-west-1.amazonaws.com/FfT+-+Japanese+Architecture/architecture-japan-hayama-neighborhood+shrine.JPG" alt="neighborhood shrine" />
 
 
 <p class="mt-2 mb-2"> Long straight lines, big walls, and tiny windows that overlook stunning vistas.</p>
 
-
-<img class="size-large wp-image-2586 aligncenter" src="https://www.fallfishtenkara.com/wp-content/uploads/2016/01/architecture-japan-hayama-vines-1024x768.jpg" alt="architecture-japan-hayama-vines" width="940" height="705" />
-
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3.us-west-1.amazonaws.com/FfT+-+Japanese+Architecture/architecture-japan-hayama-modern+architecture.JPG" alt="modern" />
 
 <p class="mt-2 mb-2">In Japan the new and old live in a peaceful symbiosis and each has its own regality and character. A Japanese "mansion" sits watch over Sagami Bay and in the distance Mount Fuji. While just below sits an onsen inside a home that has stood the test of time and looks a little weathered for it.</p></p>
 
-<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="" alt="" />
+<img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://fallfish-tenkara-images.s3.us-west-1.amazonaws.com/FfT+-+Japanese+Architecture/architecture-japan-hayama-urban+decay.JPG" alt="urban decay" />
+
+<p class="mt-2 mb-2 italic text-center font-semibold text-gray-400">To see more photos, check out this Google Photos Album <a href="https://photos.app.goo.gl/bdsFDUfx27YEkRHdA" target="_blank" rel="noopener" class="text-red-500 hover:bg-red-500 hover:text-white">here</a>.</p>
 </div>
