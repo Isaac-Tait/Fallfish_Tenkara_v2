@@ -29,10 +29,10 @@ const Bio = () => {
     <div class="mb-6 mr-4 text-xs md:text-base md:flex md:flex-row">
       
       <div class="mr-6">
-        <GatsbyImage image={data.avatar.childImageSharp.gatsbyImageData} alt={author.name}/>
+        <GatsbyImage image={data.avatar.childImageSharp.gatsbyImageData} alt={author.name} class="rounded-full"/>
       </div>
       
-      <p>Fallfish Tenkara is the brainchild of <span class="font-bold">{author.name}</span> {author.summary} You should follow him on&nbsp;<a href={`https://twitter.com/${social.twitter}`} class="text-red-500 hover:bg-red-500 hover:text-white">Twitter</a>.</p>
+      <p class="bg-slate-200">Fallfish Tenkara is the brainchild of <span class="font-bold">{author.name}</span> {author.summary} You should follow him on&nbsp;<a href={`https://twitter.com/${social.twitter}`} class="text-red-500 hover:bg-red-500 hover:text-white">Twitter</a>.</p>
     </div>
   )
 }
