@@ -1,7 +1,7 @@
 ---
 title: Japanese Kit Kat
 description: Though my first week in Japan was a blur of jet lag, a slight bout of food poisoning, and culture shock - one memory that stood out were the Kit Kat...
-date: 2016-02-12T03:13:00+02:00
+date: 2016-02-14T03:13:00+02:00
 tags: [Tokyo Prefecture]
 ---
 <div class="text-lg mt-2">

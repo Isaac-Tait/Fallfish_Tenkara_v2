@@ -26,8 +26,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             <p class="pl-2 text-gray-300">{post.frontmatter.date}</p>
         </header>
           
-        <div class="w-2/3 mx-auto bg-gray-100 rounded-xl">
-          <div class="px-2 md:w-2/3 md:mx-auto">
+        <div class="w-11/12 mx-auto bg-gray-100 rounded-xl">
+          <div class="px-2">
             <section dangerouslySetInnerHTML={{ __html: post.html }} />
           </div>
         </div>

@@ -24,7 +24,11 @@ tags: [Tochigi Prefecture]
 <p class="mt-2 mb-2">But fishing is not just about the fish, it is also about the places you go and the people you go with. The river valley was gorgeous and we saw no signs of recent passage. The water, which flows from Miyoriyama, was cold, clear, and deep - despite a dryer than normal summer. Throughout Nikko National Park the lakes were very low and some streams had been reduced to a trickle as Greg and I found out when we decided to try our luck in a few other rivers. The time came to quickly for Greg to leave. I dropped him off at the train station and after a quick stop to soak my feet in a foot onsen I hit the road my destination - the Aizu Region of Fukushima Prefecture.</p>
 
 <div class="w-8/12 mx-auto">
-<img class="rounded-lg shadow-lg" src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko+National+Park/nikko+national+park-tochigi+prefecture-tenkara-iwana-yamame-kebari-fly+fishing-weir.jpg" alt="Trying our luck below the weir" />
-<p class="italic text-center">Photo Credit - Greg took a lot of the photos I used for this article, thank you for letting me use them Greg. I will definitely look you up next time I am in the Boulder area.</p>
+    <img 
+        class="rounded-lg shadow-lg" 
+        src="https://fallfish-tenkara-images.s3-us-west-1.amazonaws.com/FfT+-+Nikko+National+Park/nikko+national+park-tochigi+prefecture-tenkara-iwana-yamame-kebari-fly+fishing-weir.jpg" 
+        alt="Trying our luck below the weir" 
+    />
+    <p class="italic text-center">Photo Credit - Greg took a lot of the photos I used for this article, thank you for letting me use them Greg. I will definitely look you up next time I am in the Boulder area.</p>
 </div>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Otaru Light Festival
 description: The Otaru Light Festival happens during the Sapporo Snow Festival. However, the light festival is the exact opposite of its massive commercial sister event...
-date: 2016-02-14T03:13:00+02:00
+date: 2016-02-12T03:13:00+02:00
 tags: [Hokkaido Prefecture]
 ---
 <div class="text-lg mt-2">
