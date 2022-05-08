@@ -42,7 +42,7 @@ tags: [Hokkaido Prefecture]
 
 <img class="w-8/12 rounded-lg shadow-lg mx-auto" src="https://res.cloudinary.com/mountaintopcoding-127956/image/upload/v1650983475/Fallfish%20Tenkara/Otaru%20Light%20Festival/otaru-light_festival-hokkaido-japan-snow_balls_smpp1b.jpg" alt="lights" />
 
-<p class="mt-2 mb-2">From time to time as you are wandering down the path you come across villagers roasting potato wedges and mochi over large fires. They hand them out willingly and the price is a smile :)</p>
+<p class="mt-2 mb-2">From time to time as you are wandering down the path you come across villagers roasting potato wedges and mochi over large fires. They hand them out willingly and the price is a smile<span role="img" aria-label=“smile_emoji”>&#128578;</span>.</p>
 
 <p class="mt-2 mb-2">After taking in the sites of Otaru we returned to the heater in our rental car and headed out to Asarigawa Hot Spring Ski area to see the third part of the Otaru Light Festival!</p>
 
